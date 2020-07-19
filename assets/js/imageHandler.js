@@ -4,3 +4,7 @@ function imgAddClass(className) {
         images[i].className = className;
     }
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+    imgAddClass("img-fluid");
+})
