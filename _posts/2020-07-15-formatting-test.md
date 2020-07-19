@@ -1,7 +1,6 @@
 ---
 layout: post
 date: 2020-07-15 14:04:22 +0000
-comments: true
 title: Formatting test
 author: Fred
 tags: [ test ]

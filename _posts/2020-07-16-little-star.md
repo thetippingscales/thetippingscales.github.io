@@ -3,7 +3,6 @@ date: 2020-07-16 14:27:53 +0000
 layout: post
 tags:
 - test
-comments: true
 title: Little star
 author: Seunghun Lee
 

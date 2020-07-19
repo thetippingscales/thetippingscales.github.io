@@ -4,7 +4,6 @@ layout: post
 tags:
 - tutorial
 - test
-comments: true
 title: How to Jekyll?
 author: Beck
 
