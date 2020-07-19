@@ -1,0 +1,22 @@
+---
+layout: default
+title: People
+permalink: /people
+
+---
+<h1>People</h1>
+<div class="row">
+    {% for person in site.people %}
+        <div class="col-sm-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="uploads/blue-user-profile-icon.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">{{ person.title }}</h5>
+                    <p class="card-text">{{ person.position }}</p>
+                    <a href="{{ site.url }}/people/{{ person.title | downcase | replace: ' ', '-' }}" class="btn btn-primary">Read profile</a>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Tags
+permalink: /tags
+---
+<h1>Tags</h1>
+<ul id="tag-list">
+    {% for tag in site.tags %}
+        <li>
+            <a href="{{ site.url }}/tags/{{ tag.title }}">{{ tag.title }}</a>
+        </li>
+    {% endfor %}
+</ul>

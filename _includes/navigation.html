@@ -1,0 +1,16 @@
+<nav class="nav nav-masthead justify-content-center">
+    {% for item in site.data.navigation %}
+
+        {% if page.url == item.link %}
+            <a class="nav-link active" href="{{ item.link }}">
+                {{ item.name }}
+            </a>
+
+        {% else %}
+            <a class="nav-link" href="{{ item.link }}">
+                {{ item.name }}
+            </a>
+        {% endif %}
+
+    {% endfor %}
+</nav>
