@@ -9,9 +9,7 @@ image-fluid: true
 
 {% if page.tags.size > 0 %}
 <p>
-    <svg class="bi" width="32" height="32" fill="currentColor">
-        <use xlink:href="bootstrap-icons.svg#tags"/>
-    </svg>
+    <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="32" height="32" title="Tags">
     Tags:
     {% for tag in page.tags %}
     <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
