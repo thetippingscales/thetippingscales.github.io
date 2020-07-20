@@ -8,8 +8,9 @@
     <title>{{ page.title }}</title>
 </head>
     <body>
+    {% include navigation.html %}
         <div class="container">
-            {% include navigation.html %}
+
             {{ content }}
         </div>
         {% if layout.image-fluid %}
