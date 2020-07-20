@@ -2,20 +2,18 @@
 layout: default
 image-fluid: true
 ---
-<div class="text-center">
-    <h1 class="font-weight-bold">{{ page.title }}</h1>
-    <p>by <a href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a> - {{ page.date | date_to_string }}</p>
+<h1 class="font-weight-bold text-center">{{ page.title }}</h1>
+<p class="text-center">by <a href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a> - {{ page.date | date_to_string }}</p>
 
-    {{ content }}
+{{ content }}
 
-    {% if page.tags.size > 0 %}
-    <p>tags:
-        {% for tag in page.tags %}
-        <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
-        <a> / </a>
-        {% endfor %}
-    </p>
-    {% endif %}
+{% if page.tags.size > 0 %}
+<p>tags:
+    {% for tag in page.tags %}
+    <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+    <a> / </a>
+    {% endfor %}
+</p>
+{% endif %}
 
-    {% include share-buttons.html %}
-</div>
+{% include share-buttons.html %}
