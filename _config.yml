@@ -1,5 +1,7 @@
 url: "https://probonosociety.github.io"
 
+title: "The Tipping Scales"
+
 collections:
   tags:
     output: true
