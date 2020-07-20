@@ -8,10 +8,11 @@ permalink: /people
     {% for person in site.people %}
         <div class="col-sm-4">
             <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="{{person.picture}}" alt="Card image cap">
+                <img class="card-img-top" src="{{person.picture}}" alt="Card image cap" height="286" width="262">
                 <div class="card-body">
                     <h5 class="card-title">{{ person.title }}</h5>
                     <p class="card-text">{{ person.position }}</p>
+                    <p>{{person.picture}}</p>
                     <a href="{{ site.url }}/people/{{ person.title | downcase | replace: ' ', '-' }}" class="btn btn-primary">Read profile</a>
                 </div>
             </div>
