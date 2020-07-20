@@ -1,6 +1,6 @@
 ---
 title: Seunghun Lee
 position: developer
-picture: /uploads/blue-user-profile-icon.png
+picture: /uploads/rallye-de-catalogne-wrc-2019-16.jpg
 ---
 Seunghun made this blog website demo
