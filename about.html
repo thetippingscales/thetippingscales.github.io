@@ -4,7 +4,7 @@ title: About us
 permalink: /about
 ---
 <h1>About us</h1>
-{% include about-us.md %}
+<p>{% include about-us.md | markdownify %}</p>
 <h1>People</h1>
 <div class="row">
     {% for person in site.people %}
