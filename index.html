@@ -2,11 +2,10 @@
 layout: default
 title: Home
 ---
-{% capture long-about %}
-  {% include_relative about.md %}
+{% capture short-about %}
+  {% include_relative short-about.md %}
 {% endcapture %}
 
-{% assign short-about = long-about | remove_first ---\nlayout: about\ntitle: About us\npermalink: /about\n-- | markdownify | %}
 
 <header>
   <h1 class="header">The Tipping Scales</h1>
@@ -17,7 +16,7 @@ title: Home
   <div class="row">
     <div class="col-sm">
       <h2>About</h2>
-      {{ short-about }}
+      {{ short-about | markdownify }}
     </div>
     <div class="col-sm">
       <h2>Latest post</h2>
