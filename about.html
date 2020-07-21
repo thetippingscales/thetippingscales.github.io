@@ -4,7 +4,11 @@ title: About us
 permalink: /about
 ---
 <h1>About us</h1>
-<p>{% include about-us.md %}</p>
+{% capture about-text %}
+    {% include about-us.md %}
+{% endcapture %}
+<p>{{ about-text | markdownify }}</p>
+
 <h1>People</h1>
 <div class="row">
     {% for person in site.people %}
