@@ -2,9 +2,11 @@
 layout: default
 title: Home
 ---
-{% capture short-about %}
+{% capture long-about %}
   {% include_relative about.md %}
 {% endcapture %}
+
+{% assign short-about = long-about | markdownify | %}
 
 <header>
   <h1 class="header">The Tipping Scales</h1>
