@@ -6,7 +6,7 @@ title: Home
   {% include_relative about.md %}
 {% endcapture %}
 
-{% assign short-about = long-about | markdownify | %}
+{% assign short-about = long-about | remove_first ---\nlayout: about\ntitle: About us\npermalink: /about\n-- | markdownify | %}
 
 <header>
   <h1 class="header">The Tipping Scales</h1>
