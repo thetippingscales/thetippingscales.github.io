@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+{% capture short-about %}
+  {% include_relative about.md %}
+{% endcapture %}
+
 <header>
   <h1 class="header">The Tipping Scales</h1>
 </header>
@@ -11,7 +15,7 @@ title: Home
   <div class="row">
     <div class="col-sm">
       <h2>About</h2>
-      <p>{% include_relative about.md %}</p>
+      <p>{{ short-about }}</p>
     </div>
     <div class="col-sm">
       <h2>Latest post</h2>

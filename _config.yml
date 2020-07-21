@@ -21,3 +21,5 @@ defaults:
       type: people
     values:
       layout: person
+
+page_excerpts: true
