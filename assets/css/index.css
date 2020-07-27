@@ -1,7 +1,10 @@
 .header-background {
-    /*background-image: url("/assets/media/background.jpg");*/
-    background-color: #6a2976;
-    background-size: cover;
+    width: 100%;
+    height: 1124px;
+    background-image: url("/assets/media/background.jpg");
+    /*background-color: #6a2976;*/
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 /*.footer {*/
