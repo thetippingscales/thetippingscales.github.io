@@ -6,26 +6,21 @@ title: Home
   {% include_relative short-about.md %}
 {% endcapture %}
 
-<!--<header class="header-background">-->
-<!--  <h2 class="text-center text-white font-weight-bold">Welcome to The Tipping Scales</h2>-->
-<!--  <p class="text-center text-white">University of Bristol Pro Bono Society</p>-->
-<!--</header>-->
-
 <div class="jumbotron">
   <div class="container">
     <h1 class="display-3 text-white">Welcome to The Tipping Scales</h1>
-    <p class="text-white">University of Bristol Pro Bono Society</p>
+    <h3 class="text-white">University of Bristol Pro Bono Society</h3>
   </div>
 </div>
 
-<div class="container">
-  <main role="main" class="inner cover">
+<main role="main">
+  <div class="container">
     <div class="row">
-      <div class="col-sm">
+      <div class="col-md">
         <h2>About</h2>
         {{ short-about | markdownify }}
       </div>
-      <div class="col-sm">
+      <div class="col-md">
         <h2>Latest post</h2>
         <h3><a href="{{site.url}}{{site.posts.first.url}}">{{ site.posts.first.title }}</a></h3>
         <p>by <a href="{{ site.url }}/people/{{ site.posts.first.author | downcase | replace: ' ', '-' }}">{{ site.posts.first.author }}</a> - {{ site.posts.first.date | date_to_string }}</p>
@@ -33,8 +28,10 @@ title: Home
         <a href="{{site.url}}{{site.posts.first.url}}">Continue reading -></a>
       </div>
     </div>
-  </main>
-</div>
+    <hr>
+  </div>
+</main>
+
 
 <footer class="footer">
   <div class="container">
