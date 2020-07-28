@@ -10,6 +10,15 @@
     margin-bottom: 20px;
 }
 
+.jumbotron {
+    background-image: url("/assets/media/background.jpg");
+    background-color: #311935;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: luminosity;
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/
