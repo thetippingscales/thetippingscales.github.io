@@ -1,12 +1,29 @@
 /*override .jumbotron from bootstrap*/
-.jumbotron {
-    background-image: url("/assets/media/background.jpg");
-    background-color: #311935;
+/*.jumbotron {*/
+/*    background-image: url("/assets/media/background.jpg");*/
+/*    background-color: #311935;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-position: center center;*/
+/*    background-blend-mode: luminosity;*/
+/*    text-shadow: 0 0 10px black;*/
+/*}*/
+
+.banner {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-blend-mode: luminosity;
     text-shadow: 0 0 10px black;
+}
+
+.banner-home {
+    background-color: #311935;
+    background-blend-mode: luminosity;
+    background-image: url("/assets/media/background.jpg");
+}
+
+.banner-blog {
+    background-image: url("/assets/media/background2.jpg");
 }
 
 .main-content {
