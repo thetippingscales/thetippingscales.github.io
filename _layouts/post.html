@@ -2,20 +2,24 @@
 layout: default
 image-fluid: true
 ---
-<h1 class="font-weight-bold text-center">{{ page.title }}</h1>
-<p class="text-center">by <a href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a> - {{ page.date | date_to_string }}</p>
+<div role="main" class="main-content">
+    <h1 class="display-4 font-weight-bold text-center">{{ page.title }}</h1>
+    <p class="text-center mb-0">
+        <small>Posted on {{ post.date | date_to_string }} by <a href="{{ site.url }}/people/{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></small>
+    </p>
+    {{ content }}
 
-{{ content }}
-
-{% if page.tags.size > 0 %}
-<p>
-    <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="32" height="32" title="Tags">
-    Tags:
-    {% for tag in page.tags %}
-    <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
-    <a> / </a>
-    {% endfor %}
-</p>
-{% endif %}
-
-<img src="/assets/icon/bootstrap-icons/icons/share.svg" alt="" width="32" height="32" title="Tags"> {% include share-buttons.html %}
+    {% if page.tags.size > 0 %}
+    <p><small>
+        <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="16" height="16" title="Tags">
+        Tags:
+        {% for tag in page.tags %}
+        <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+        <a> / </a>
+        {% endfor %}
+    </small></p>
+    {% endif %}
+    <small>
+        <img src="/assets/icon/bootstrap-icons/icons/share.svg" alt="" width="16" height="16" title="Share buttons"> {% include share-buttons.html %}
+    </small>
+</div>
