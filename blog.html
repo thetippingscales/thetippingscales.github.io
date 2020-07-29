@@ -15,7 +15,7 @@ permalink: /blog
         <article>
             {% for post in site.posts %}
             <article>
-                <h2 class="text-center display-4 font-weight-bold"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <h1 class="text-center display-4 font-weight-bold"><a class="post post-title" href="{{ post.url }}">{{ post.title }}</a></h1>
                 <p class="text-center mb-0">
                     <small>Posted on {{ post.date | date_to_string }} by <a href="{{ site.url }}/people/{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></small>
                 </p>
