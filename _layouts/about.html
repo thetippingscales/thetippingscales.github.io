@@ -8,20 +8,22 @@ layout: home
     </div>
 </div>
 
-{{ content }}
+<div class="container">
+    {{ content }}
 
-<h1 class="h1 mb-4">People</h1>
-<div class="row">
-    {% for person in site.people %}
-    <div class="col-md-4 mb-4">
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="{{person.picture}}" alt="Card image cap" width="286" height="262">
-            <div class="card-body">
-                <h5 class="card-title">{{ person.title }}</h5>
-                <p class="card-text">{{ person.position }}</p>
-                <a href="{{ site.url }}/people/{{ person.title | downcase | replace: ' ', '-' }}" class="btn btn-primary">Read profile</a>
+    <h1 class="h1 mb-4">People</h1>
+    <div class="row">
+        {% for person in site.people %}
+        <div class="col-md-4 mb-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="{{person.picture}}" alt="Profile image">
+                <div class="card-body">
+                    <h5 class="card-title">{{ person.title }}</h5>
+                    <p class="card-text">{{ person.position }}</p>
+                    <a href="{{ site.url }}/people/{{ person.title | downcase | replace: ' ', '-' }}" class="btn btn-primary">Read profile</a>
+                </div>
             </div>
         </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
