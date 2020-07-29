@@ -1,14 +1,3 @@
-/*override .jumbotron from bootstrap*/
-/*.jumbotron {*/
-/*    background-image: url("/assets/media/background.jpg");*/
-/*    background-color: #311935;*/
-/*    background-repeat: no-repeat;*/
-/*    background-size: cover;*/
-/*    background-position: center center;*/
-/*    background-blend-mode: luminosity;*/
-/*    text-shadow: 0 0 10px black;*/
-/*}*/
-
 .banner {
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,7 +15,7 @@
     background-image: url("/assets/media/background2.jpg");
 }
 
-.main-content {
+.blog-content {
     max-width: 750px;
     margin: 2% auto;
 }
