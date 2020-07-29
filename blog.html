@@ -1,32 +1,35 @@
 ---
-layout: default
+layout: home
 title: Blog
 permalink: /blog
 ---
-<h1 class="text-center">Blog</h1>
 
-<div role="main" class="main-content">
-    <article>
-        {% for post in site.posts %}
+<div class="jumbotron">
+</div>
+<div class="container">
+    <div role="main" class="main-content">
         <article>
-            <h2 class="text-center display-4 font-weight-bold"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <p class="text-center mb-0">
-                <small>Posted on {{ post.date | date_to_string }} by <a href="{{ site.url }}/people/{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></small>
-            </p>
-            {% if post.tags.size > 0 %}
-            <p class="text-center">
-                <small>Tags:
-                    {% for tag in post.tags %}
-                    <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
-                    <a> / </a>
-                    {% endfor %}
-                </small>
-            </p>
-            {% endif %}
-            <p>{{ post.excerpt }}</p>
-            <a href="{{post.url}}">Continue reading -></a>
+            {% for post in site.posts %}
+            <article>
+                <h2 class="text-center display-4 font-weight-bold"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <p class="text-center mb-0">
+                    <small>Posted on {{ post.date | date_to_string }} by <a href="{{ site.url }}/people/{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></small>
+                </p>
+                {% if post.tags.size > 0 %}
+                <p class="text-center">
+                    <small>Tags:
+                        {% for tag in post.tags %}
+                        <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+                        <a> / </a>
+                        {% endfor %}
+                    </small>
+                </p>
+                {% endif %}
+                <p>{{ post.excerpt }}</p>
+                <a href="{{post.url}}">Continue reading -></a>
+            </article>
+            {% endfor %}
         </article>
-        {% endfor %}
-    </article>
 
+    </div>
 </div>
