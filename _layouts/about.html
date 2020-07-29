@@ -2,11 +2,15 @@
 layout: default
 
 ---
-<h1>About us</h1>
+<div class="jumbotron banner banner-home">
+    <div class="container">
+        <h1 class="display-3 text-white">About us</h1>
+    </div>
+</div>
 
 {{ content }}
 
-<h1>People</h1>
+<h1 class="h1 mb-4">People</h1>
 <div class="row">
     {% for person in site.people %}
     <div class="col-md-4 mb-4">
