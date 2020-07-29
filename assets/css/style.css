@@ -28,6 +28,10 @@
     color: #212529;
 }
 
+.post-title:hover {
+    color: #6b3876;
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/
