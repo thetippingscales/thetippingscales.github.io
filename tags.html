@@ -7,7 +7,7 @@ permalink: /tags
 <ul id="tag-list">
     {% for tag in site.tags %}
         <li>
-            <a href="{{ site.url }}/tags/{{ tag.title }}">{{ tag.title }}</a>
+            <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag.title }}">{{ tag.title }}</a>
         </li>
     {% endfor %}
 </ul>

@@ -5,7 +5,7 @@ image-fluid: true
 <div role="main" class="blog-content">
     <h1 class="display-4 font-weight-bold text-center">{{ page.title }}</h1>
     <p class="text-center mb-4">
-        <small>Posted on {{ page.date | date_to_string }} by <a href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a></small>
+        <small>Posted on {{ page.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a></small>
     </p>
     {{ content }}
 
@@ -14,7 +14,7 @@ image-fluid: true
         <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="16" height="16" title="Tags">
         Tags:
         {% for tag in page.tags %}
-        <a href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+        <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
         <a> / </a>
         {% endfor %}
     </small></p>

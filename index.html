@@ -26,17 +26,17 @@ title: Home
         <hr>
         <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{site.posts.first.url}}">{{ site.posts.first.title }}</a></h2>
         <p>
-          <small>Posted on {{ site.posts.first.date | date_to_string }} by <a href="{{ site.url }}/people/{{ site.posts.first.author | downcase | replace: ' ', '-' }}">{{ site.posts.first.author }}</a></small>
+          <small>Posted on {{ site.posts.first.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ site.posts.first.author | downcase | replace: ' ', '-' }}">{{ site.posts.first.author }}</a></small>
         </p>
         <p>{{site.posts.first.excerpt}}</p>
-        <a href="{{site.url}}{{site.posts.first.url}}">Continue reading →</a>
+        <a class="text-decoration-none" href="{{site.url}}{{site.posts.first.url}}">Continue reading →</a>
         <div class="mb-4"></div>
         <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{site.posts[1].url}}">{{ site.posts[1].title }}</a></h2>
         <p>
-          <small>Posted on {{ site.posts[1].date | date_to_string }} by <a href="{{ site.url }}/people/{{ site.posts[1].author | downcase | replace: ' ', '-' }}">{{ site.posts[1].author }}</a></small>
+          <small>Posted on {{ site.posts[1].date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ site.posts[1].author | downcase | replace: ' ', '-' }}">{{ site.posts[1].author }}</a></small>
         </p>
         <p>{{site.posts[1].excerpt}}</p>
-        <a href="{{site.url}}{{site.posts[1].url}}">Continue reading →</a>
+        <a class="text-decoration-none" href="{{site.url}}{{site.posts[1].url}}">Continue reading →</a>
       </div>
     </div>
     <hr>
@@ -46,6 +46,6 @@ title: Home
 
 <footer class="footer">
   <div class="container">
-    <p>Developed by <a href="https://github.com/viper12590">Seunghun Lee</a></p>
+    <p>Developed by <a class="text-decoration-none" href="https://github.com/viper12590">Seunghun Lee</a></p>
   </div>
 </footer>
