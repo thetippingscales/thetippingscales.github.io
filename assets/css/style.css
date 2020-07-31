@@ -29,7 +29,19 @@
 }
 
 .post-title:hover {
-    color: #ac53bb;
+    /*color: #ac53bb;*/
+    color: purple;
+}
+
+/*override btn btn-primary*/
+.btn.btn-primary {
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn.btn-primary:hover {
+    background-color: #670067;
+    border-color: #670067;
 }
 
 /*.footer {*/
