@@ -3,7 +3,7 @@ function checkIfClass(item) {
 }
 
 function setClassToItem(item, className) {
-        item[i].className = className;
+        item.className = className;
 }
 
 document.addEventListener("DOMContentLoaded", function () {
