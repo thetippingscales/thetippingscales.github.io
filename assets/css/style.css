@@ -44,6 +44,14 @@
     border-color: #670067;
 }
 
+a {
+    color: purple;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/
