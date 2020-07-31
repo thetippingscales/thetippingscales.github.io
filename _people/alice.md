@@ -1,7 +1,7 @@
 ---
 title: Alice
 position: tester
-picture: /uploads/blue-user-profile-icon.png
+picture: /assets/media/default-profile-image.png
 ---
 Alice is a fake person.
 

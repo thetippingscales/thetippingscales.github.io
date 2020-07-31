@@ -1,7 +1,7 @@
 ---
 title: Ted
 position: tester
-picture: /uploads/blue-user-profile-icon.png
+picture: /assets/media/default-profile-image.png
 ---
 Ted is a fake user
 
