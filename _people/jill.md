@@ -1,7 +1,7 @@
 ---
 title: Jill
 position: tester
-picture: /uploads/blue-user-profile-icon.png
+picture: /assets/media/default-profile-image.png
 ---
 Jill is a fake user
 

@@ -1,6 +1,6 @@
 ---
 title: Beck
 position: tester
-picture: /uploads/blue-user-profile-icon.png
+picture: /assets/media/default-profile-image.png
 ---
 Beck is not real person
