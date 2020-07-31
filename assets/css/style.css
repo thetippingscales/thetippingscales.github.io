@@ -44,6 +44,18 @@
     border-color: #670067;
 }
 
+/*override btn btn-outline-primary*/
+.btn.btn-outline-primary {
+    color: purple;
+    border-color: purple;
+}
+
+.btn.btn-outline-primary:hover {
+    color: white;
+    background-color: purple;
+    border-color: purple;
+}
+
 a {
     color: purple;
 }
