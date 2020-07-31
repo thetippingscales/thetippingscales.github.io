@@ -1,6 +1,6 @@
 ---
 title: Jill
-position: tester
+position: Tester
 picture: /assets/media/default-profile-image.png
 ---
 Jill is a fake user

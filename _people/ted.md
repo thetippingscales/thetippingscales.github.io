@@ -1,6 +1,6 @@
 ---
 title: Ted
-position: tester
+position: Tester
 picture: /assets/media/default-profile-image.png
 ---
 Ted is a fake user

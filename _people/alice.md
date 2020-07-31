@@ -1,6 +1,6 @@
 ---
 title: Alice
-position: tester
+position: Tester
 picture: /assets/media/default-profile-image.png
 ---
 Alice is a fake person.
