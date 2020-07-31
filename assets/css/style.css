@@ -70,6 +70,10 @@ img.profile {
     pointer-events: none;
 }
 
+span {
+    display: inline-block;
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/

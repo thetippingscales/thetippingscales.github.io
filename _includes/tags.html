@@ -1,7 +1,7 @@
 <h1>Find articles by tags</h1>
 <div id="tag-list" class="mb-4">
     {% for tag in site.tags %}
-        <span>
+        <span class="tag mb-1">
             <a class="btn btn-outline-primary" href="{{ site.url }}/tags/{{ tag.title }}">{{ tag.title }}</a>
         </span>
     {% endfor %}
