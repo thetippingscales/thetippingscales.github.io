@@ -13,6 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
         if(checkIfClass(imgs[i])) {
             setClassToItem(imgs[i], "img-fluid");
         }
+    }
+    for(let i=0; i < blockquotes.length; i++) {
         setClassToItem(blockquotes[i], "font-italic blockquote text-center");
     }
 })
