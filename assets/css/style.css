@@ -64,6 +64,11 @@ a:hover {
     color: blueviolet;
 }
 
+img.profile {
+    object-fit: cover;
+    object-position: center center;
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/
