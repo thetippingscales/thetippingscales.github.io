@@ -60,19 +60,19 @@
     margin-top: 10%;
 }
 
-.sns {
-
+.external-link {
+    color: grey;
 }
 
-.sns-facebook {
+.external-link-facebook:hover {
     color: #1877F2;
 }
 
-.sns-twitter {
+.external-link-twitter:hover {
     color: #1DA1F2;
 }
 
-.sns-instagram {
+.external-link-instagram:hover {
     color: #ED5475;
 }
 
