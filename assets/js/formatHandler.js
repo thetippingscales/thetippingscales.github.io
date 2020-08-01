@@ -16,6 +16,7 @@ function responsiveEmbed(item, className) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+    document.cookie = "SameSite=Strict";
     var imgs = document.getElementsByTagName("img");
     var blockquotes = document.getElementsByTagName("blockquote");
     var iframes = document.getElementsByTagName("iframe");
