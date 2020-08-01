@@ -24,3 +24,8 @@ defaults:
 
 page_excerpts: true
 
+exclude:
+  - README.md
+  - LICENSE.md
+  - short-about.md
+
