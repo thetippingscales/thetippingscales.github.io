@@ -7,7 +7,7 @@ layout: home
 {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
 
 <div class="container">
-    <div role="main" class="blog-content">
+    <div id="blog-content" role="main" class="blog-content">
         <h1 class="display-4 font-weight-bold text-center">{{ page.title }}</h1>
         <p class="text-center mb-4">
             <small>Posted on {{ page.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a></small>
