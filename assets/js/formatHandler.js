@@ -12,6 +12,7 @@ function responsiveEmbed(item, className) {
     videoWrapper.className = className;
     item.after(videoWrapper);
     videoWrapper.appendChild(item);
+    item.className = "embed-responsive-item";
 }
 
 document.addEventListener("DOMContentLoaded", function () {
