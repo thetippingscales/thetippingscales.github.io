@@ -56,6 +56,10 @@
     border-color: purple;
 }
 
+.error-page {
+    margin-top: 10%;
+}
+
 a {
     color: purple;
 }
