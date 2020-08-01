@@ -60,6 +60,22 @@
     margin-top: 10%;
 }
 
+.sns {
+
+}
+
+.sns-facebook {
+    color: #1877F2;
+}
+
+.sns-twitter {
+    color: #1DA1F2;
+}
+
+.sns-instagram {
+    color: #ED5475;
+}
+
 a {
     color: purple;
 }
