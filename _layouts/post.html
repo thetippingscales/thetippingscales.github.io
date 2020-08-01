@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<!--experimental-->
+{% assign author = page.author | remove_first: "_people/" | remove_first: ".md" %}
+{% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
+{% assign lastName = author | replace: "-", "" | remove_first: firstName %}
+
 <div role="main" class="blog-content">
     <h1 class="display-4 font-weight-bold text-center">{{ page.title }}</h1>
     <p class="text-center mb-4">
