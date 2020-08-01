@@ -1,29 +1,31 @@
 ---
-layout: default
+layout: home
 ---
 <!--experimental-->
 {% assign author = page.author | remove_first: "_people/" | remove_first: ".md" %}
 {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
 {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
 
-<div role="main" class="blog-content">
-    <h1 class="display-4 font-weight-bold text-center">{{ page.title }}</h1>
-    <p class="text-center mb-4">
-        <small>Posted on {{ page.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a></small>
-    </p>
-    {{ content }}
+<div class="container">
+    <div role="main" class="blog-content">
+        <h1 class="display-4 font-weight-bold text-center">{{ page.title }}</h1>
+        <p class="text-center mb-4">
+            <small>Posted on {{ page.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ page.author | downcase | replace: ' ', '-' }}">{{ page.author }}</a></small>
+        </p>
+        {{ content }}
 
-    {% if page.tags.size > 0 %}
-    <p><small>
-        <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="16" height="16" title="Tags">
-        Tags:
-        {% for tag in page.tags %}
-        <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
-        <a> / </a>
-        {% endfor %}
-    </small></p>
-    {% endif %}
-    <small>
-        <img src="/assets/icon/bootstrap-icons/icons/share.svg" alt="" width="16" height="16" title="Share buttons"> {% include share-buttons.html %}
-    </small>
+        {% if page.tags.size > 0 %}
+        <p><small>
+            <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="16" height="16" title="Tags">
+            Tags:
+            {% for tag in page.tags %}
+            <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+            <a> / </a>
+            {% endfor %}
+        </small></p>
+        {% endif %}
+        <small>
+            <img src="/assets/icon/bootstrap-icons/icons/share.svg" alt="" width="16" height="16" title="Share buttons"> {% include share-buttons.html %}
+        </small>
+    </div>
 </div>
