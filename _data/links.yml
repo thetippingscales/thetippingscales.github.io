@@ -1,6 +1,6 @@
-- blog_email: example@mail.com
-- main_email: example@mail.com
-- main_website: https://www.uobprobono.co.uk/
-- facebook: https://www.facebook.com/uobprobosoc
-- twitter: https://twitter.com/uobprobonosoc
-- instagram: https://www.instagram.com/uobprobonosoc/
+- blog_email: "example@mail.com"
+- main_email: "example@mail.com"
+- main_website: "https://www.uobprobono.co.uk/"
+- facebook: "https://www.facebook.com/uobprobosoc"
+- twitter: "https://twitter.com/uobprobonosoc"
+- instagram: "https://www.instagram.com/uobprobonosoc/"
