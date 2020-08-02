@@ -7,7 +7,7 @@
 
 .banner-home {
     background-image: url("/assets/media/banner-proto-2.png");
-    background-position: right center;
+    background-position: right top;
     background-color: #937399;
 }
 
@@ -17,7 +17,7 @@
 
 .banner-blog {
     background-color: #937399;
-    background-image: url("/assets/media/background2.jpg");
+    /*background-image: url("/assets/media/background2.jpg");*/
 }
 
 .blog-content {
