@@ -6,10 +6,13 @@ layout: blog-page
 <article>
     {% for post in site.posts %}
         {% if post.tags contains page.title %}
+            {% assign author = post.author | remove_first: "_people/" | remove_first: ".md" %}
+            {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
+            {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
             <article>
                 <h1 class="text-center display-4 font-weight-bold"><a class="post post-title text-decoration-none text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h1>
                 <p class="text-center mb-0">
-                    <small>Posted on {{ post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></small>
+                    <small>Posted on {{ post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ author }}">{{ firstName | capitalize }} {{ lastName | capitalize }}</a></small>
                 </p>
                 <p>{{ post.excerpt }}</p>
                 <a class="text-decoration-none" href="{{post.url}}">Continue reading →</a>
