@@ -10,16 +10,22 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - blog-post
 - type: directory
   path: _people
   label: People
   create: all
   match: "**/*"
+  templates:
+  - author
 - type: directory
   path: _tags
   label: Tags
   create: all
   match: "**/*"
+  templates:
+  - tag
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
