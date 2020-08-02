@@ -9,6 +9,7 @@ title: New Forestry post test
 
 ---
 ![](https://pbs.twimg.com/profile_images/956634123866550272/h8AfYODA.jpg)
+
 Forestry post with the new account and new setup
 
 New author system is implemented. So far so good.
