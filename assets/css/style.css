@@ -6,8 +6,10 @@
 }
 
 .banner-home {
-    background-color: #311935;
-    background-blend-mode: luminosity;
+    background-color: #937399;
+}
+
+.banner-about {
     background-image: url("/assets/media/thumbnail_openday.jpg");
 }
 
