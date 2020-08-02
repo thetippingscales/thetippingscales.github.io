@@ -42,3 +42,5 @@ fields:
   default: []
   label: Tags
   description: All tags must be added in 'Tags' before use (Case sensitive)
+pages:
+- _posts/new-forestry-post-test.md
