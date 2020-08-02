@@ -10,11 +10,11 @@
 }
 
 .banner-about {
-    background-image: url("/assets/media/thumbnail_openday.jpg");
+    background-image: url("/_assets/media/thumbnail_openday.jpg");
 }
 
 .banner-blog {
-    background-image: url("/assets/media/background2.jpg");
+    background-image: url("/_assets/media/background2.jpg");
 }
 
 .blog-content {
