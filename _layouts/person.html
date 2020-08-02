@@ -23,7 +23,11 @@ layout: default
                 {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
                 {% assign firstName = firstName | capitalize %}
                 {% assign lastName = lastName | capitalize %}
-                {% assign authorName = firstName | append: " " | append: lastName %}
+                {% if lastName = "" %}
+                    {% assign authorName = firstName %}
+                {% else %}
+                    {% assign authorName = firstName | append: " " | append: lastName %}
+                {% endif %}
 
                 {% if authorName == page.title %}
                 <article class="mb-4">
