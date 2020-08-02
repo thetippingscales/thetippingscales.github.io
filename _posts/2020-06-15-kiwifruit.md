@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Ted
+author: _people/ted.md
 tags: [ fruits ]
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-15 14:04:22 +0000
 title: Formatting test
-author: Fred
+author: _people/fred.md
 tags: [ test ]
 
 ---
