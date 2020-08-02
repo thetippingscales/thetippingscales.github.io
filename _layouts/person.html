@@ -23,7 +23,7 @@ layout: default
                 {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
                 {% assign firstName = firstName | capitalize %}
                 {% assign lastName = lastName | capitalize %}
-                {% if lastName = "" %}
+                {% if lastName == "" %}
                     {% assign authorName = firstName %}
                 {% else %}
                     {% assign authorName = firstName | append: " " | append: lastName %}
