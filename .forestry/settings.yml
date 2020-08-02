@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: jekyll-pages
   label: Pages
-  create: all
+  create: documents
 - type: jekyll-posts
   label: Posts
   create: all
@@ -31,7 +31,7 @@ sections:
   label: Data
   create: documents
   match: "**/*"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
