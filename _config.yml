@@ -27,5 +27,5 @@ page_excerpts: true
 exclude:
   - README.md
   - LICENSE.md
-  - assets
+  - short-about.md
 
