@@ -4,10 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Full name
+  config:
+    required: true
+    min: 1
 - type: text
   name: position
-  label: position
+  label: Position
 - type: file
   name: picture
-  label: picture
+  label: Picture
+  default: "/uploads/default-profile-image.png"
