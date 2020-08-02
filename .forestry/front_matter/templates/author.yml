@@ -15,3 +15,5 @@ fields:
   name: picture
   label: Picture
   default: "/uploads/default-profile-image.png"
+pages:
+- _people/charlie-goodman.md
