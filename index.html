@@ -6,6 +6,17 @@ title: Home
   {% include_relative short-about.md %}
 {% endcapture %}
 
+{% assign first_post = site.posts.first %}
+{% assign second_post = site.posts[1] %}
+
+{% assign first_author = first_post.author | remove_first: "_people/" | remove_first: ".md" %}
+{% assign first_firstName = first_author | replace: "-", " "  | truncatewords: 1, "" %}
+{% assign first_lastName = first_author | replace: "-", "" | remove_first: first_firstName %}
+
+{% assign second_author = second_post.author | remove_first: "_people/" | remove_first: ".md" %}
+{% assign second_firstName = second_author | replace: "-", " "  | truncatewords: 1, "" %}
+{% assign second_lastName = second_author | replace: "-", "" | remove_first: second_firstName %}
+
 <div class="jumbotron banner banner-home">
   <div class="container">
     <h1 class="display-3 text-white">Welcome to The Tipping Scales</h1>
@@ -25,19 +36,19 @@ title: Home
       <div class="col-md">
         <h1>Recent articles</h1>
         <hr>
-        <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{site.posts.first.url}}">{{ site.posts.first.title }}</a></h2>
+        <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{first_post.url}}">{{ first_post.title }}</a></h2>
         <p>
-          <small>Posted on {{ site.posts.first.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ site.posts.first.author | downcase | replace: ' ', '-' }}">{{ site.posts.first.author }}</a></small>
+          <small>Posted on {{ first_post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ first_author }}">{{ first_firstName | capitalize }} {{ first_lastName | capitalize }}</a></small>
         </p>
-        <p>{{site.posts.first.excerpt}}</p>
-        <a class="text-decoration-none" href="{{site.url}}{{site.posts.first.url}}">Continue reading →</a>
+        <p>{{first_post.excerpt}}</p>
+        <a class="text-decoration-none" href="{{site.url}}{{first_post.url}}">Continue reading →</a>
         <div class="mb-4"></div>
-        <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{site.posts[1].url}}">{{ site.posts[1].title }}</a></h2>
+        <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{second_post.url}}">{{ second_post.title }}</a></h2>
         <p>
-          <small>Posted on {{ site.posts[1].date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ site.posts[1].author | downcase | replace: ' ', '-' }}">{{ site.posts[1].author }}</a></small>
+          <small>Posted on {{ second_post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ second_author }}">{{ second_firstName | capitalize }} {{ second_lastName | capitalize }}</a></small>
         </p>
-        <p>{{site.posts[1].excerpt}}</p>
-        <a class="text-decoration-none" href="{{site.url}}{{site.posts[1].url}}">Continue reading →</a>
+        <p>{{ second_post.excerpt}}</p>
+        <a class="text-decoration-none" href="{{site.url}}{{second_post.url}}">Continue reading →</a>
       </div>
     </div>
   </div>
