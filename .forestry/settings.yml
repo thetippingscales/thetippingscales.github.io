@@ -29,7 +29,7 @@ sections:
 - type: directory
   path: _data
   label: Data
-  create: documents
+  create: none
   match: "**/*"
   new_doc_ext: yml
 upload_dir: uploads
