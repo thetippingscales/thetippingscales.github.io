@@ -25,12 +25,18 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- type: text
-  name: author
-  label: Author
+- name: author
+  type: select
+  default: []
   config:
     required: true
-    min: 1
+    options: []
+    source:
+      type: pages
+      section: people
+      file: _people/seunghun-lee.md
+      path: 
+  label: Author
 - name: tags
   type: tag_list
   default: []
