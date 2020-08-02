@@ -1,0 +1,38 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+  config:
+    required: true
+- name: title
+  type: text
+  config:
+    required: true
+    min: 1
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: ''
+    time_format: 
+    display_utc: false
+  default: now
+- type: text
+  name: author
+  label: Author
+  config:
+    required: true
+    min: 1
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: All tags must be added in 'Tags' before use (Case sensitive)

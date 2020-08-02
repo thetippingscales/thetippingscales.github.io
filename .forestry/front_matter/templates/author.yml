@@ -1,0 +1,17 @@
+---
+label: Author
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Full name
+  config:
+    required: true
+    min: 1
+- type: text
+  name: position
+  label: Position
+- type: file
+  name: picture
+  label: Picture
+  default: "/uploads/default-profile-image.png"

@@ -1,0 +1,10 @@
+---
+label: Tag
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Tag name
+  config:
+    required: true
+    min: 1
