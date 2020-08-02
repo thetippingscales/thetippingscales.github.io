@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-08-02 14:24:22 +0000
-author: _people/alice.md
+author: _people/charlie-goodman.md
 tags:
 - test
 - forestry
