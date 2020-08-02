@@ -8,9 +8,12 @@ permalink: /blog
 <article>
     {% for post in site.posts %}
     <article>
+        {% assign author = post.author | remove_first: "_people/" | remove_first: ".md" %}
+        {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
+        {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
         <h1 class="text-center display-4 font-weight-bold"><a class="post post-title text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></h1>
         <p class="text-center mb-0">
-            <small>Posted on {{ post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ post.author | downcase | replace: ' ', '-' }}">{{ post.author }}</a></small>
+            <small>Posted on {{ post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ author }}">{{ firstName | capitalize }} {{ lastName | capitalize }}</a></small>
         </p>
         {% if post.tags.size > 0 %}
         <p class="text-center">

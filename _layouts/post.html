@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--experimental-->
+
 {% assign author = page.author | remove_first: "_people/" | remove_first: ".md" %}
 {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
 {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
