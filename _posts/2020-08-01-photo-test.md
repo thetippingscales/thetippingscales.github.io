@@ -6,7 +6,7 @@ tags:
 - rally
  
 title: Photo Test
-author: Seunghun Lee
+author: _people/seunghun-lee.md
 ---
 ![](/uploads/pro_bono_logo.png)
 Text right below the photo.

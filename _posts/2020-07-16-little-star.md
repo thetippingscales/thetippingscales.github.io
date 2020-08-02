@@ -4,7 +4,7 @@ layout: post
 tags:
 - test
 title: Little star
-author: Seunghun Lee
+author: _people/seunghun-lee.md
 
 ---
 _Twinkle, twinkle, little star  
