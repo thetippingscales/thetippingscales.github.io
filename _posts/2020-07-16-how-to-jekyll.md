@@ -5,7 +5,7 @@ tags:
 - tutorial
 - test
 title: How to Jekyll?
-author: _people/beck.md
+author: Beck
 
 ---
 Beep Bop Boop
