@@ -25,21 +25,23 @@ title: Home
 
 <main role="main">
   <div class="container">
+    <div class="mb-4">
+      {{ short-about | markdownify }}
+      <a class="mt-3 text-decoration-none" href="/about">Continue reading →</a>
+    </div>
+
+    <h1>Recent articles</h1>
+    <hr>
     <div class="row">
       <div class="col-md mb-4">
-        {{ short-about | markdownify }}
-        <a class="mt-3 text-decoration-none" href="/about">Continue reading →</a>
-      </div>
-      <div class="col-md mb-4">
-        <h1>Recent articles</h1>
-        <hr>
         <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{first_post.url}}">{{ first_post.title }}</a></h2>
         <p>
           <small>Posted on {{ first_post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ first_author }}">{{ first_firstName | capitalize }} {{ first_lastName | capitalize }}</a></small>
         </p>
         <p>{{first_post.excerpt}}</p>
         <a class="text-decoration-none" href="{{site.url}}{{first_post.url}}">Continue reading →</a>
-        <div class="mb-4"></div>
+      </div>
+      <div class="col-md mb-4">
         <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{site.url}}{{second_post.url}}">{{ second_post.title }}</a></h2>
         <p>
           <small>Posted on {{ second_post.date | date_to_string }} by <a class="text-decoration-none" href="{{ site.url }}/people/{{ second_author }}">{{ second_firstName | capitalize }} {{ second_lastName | capitalize }}</a></small>
