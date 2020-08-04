@@ -3,6 +3,6 @@
 - name: About
   link: /about
 - name: Articles
-  link: /blog
+  link: /articles
 - name: Contact
-  link: /contacts
+  link: /contact
