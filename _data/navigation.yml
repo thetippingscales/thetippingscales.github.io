@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: About us
+- name: About
   link: /about
-- name: Blog
+- name: Articles
   link: /blog
-- name: Contacts
+- name: Contact
   link: /contacts
