@@ -71,7 +71,7 @@
 }
 
 /*override page-item active page-link*/
-.page-item.active.page-link {
+.page-item.active .page-link {
     color: white;
     background-color: purple;
     border-color: purple;
