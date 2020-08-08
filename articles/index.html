@@ -6,7 +6,8 @@ title: Articles
 
 {% include tags.html %}
 <article>
-    {% for post in site.posts %}
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
     <article>
         {% assign author = post.author | remove_first: "_people/" | remove_first: ".md" %}
         {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
@@ -30,17 +31,6 @@ title: Articles
     </article>
     {% endfor %}
 </article>
-
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-<p class="author">
-    <span class="date">{{ post.date }}</span>
-</p>
-<div class="content">
-    {{ post.content }}
-</div>
-{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
