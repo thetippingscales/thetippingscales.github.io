@@ -45,7 +45,7 @@ title: Articles
     {% if page == paginator.page %}
     <em>{{ page }}</em>
     {% elsif page == 1 %}
-    <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    <a href="{{ '/articles' | relative_url }}">{{ page }}</a>
     {% else %}
     <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
@@ -79,7 +79,7 @@ title: Articles
         </li>
         {% elsif page == 1 %}
         <li class="page-item">
-            <a class="page-link" href="{{ '/' | relative_url }}">{{ page }}</a>
+            <a class="page-link" href="{{ '/articles/' | relative_url }}">{{ page }}</a>
         </li>
         {% else %}
         <li class="page-item">
