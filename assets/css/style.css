@@ -61,6 +61,22 @@
     border-color: purple;
 }
 
+/*override page-link*/
+.page-link {
+    color: purple;
+}
+
+.page-link:hover {
+    color: blueviolet;
+}
+
+/*override page-item active page-link*/
+.page-item.active.page-link {
+    color: white;
+    background-color: purple;
+    border-color: purple;
+}
+
 .error-page {
     margin-top: 10%;
 }
