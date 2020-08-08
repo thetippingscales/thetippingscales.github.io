@@ -86,6 +86,7 @@ title: Articles
             <a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
         </li>
         {% endif %}
+        {% endfor %}
 
         {% if paginator.next_page %}
         <li class="page-item">
@@ -96,8 +97,6 @@ title: Articles
             <a class="page-link" aria-disabled="true">Next</a>
         </li>
         {% endif %}
-
-        {% endfor %}
     </ul>
 </nav>
 {% endif %}
