@@ -34,4 +34,5 @@ page_excerpts: true
 exclude:
   - README.md
   - LICENSE.md
-
+  - /assets/icon/bootstrap-icons/LICENSE.md
+  - /assets/icon/bootstrap-icons/README.md
