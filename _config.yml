@@ -2,6 +2,13 @@ url: "https://probonosociety.github.io"
 
 title: "The Tipping Scales"
 
+plugins:
+  - jekyll-paginate
+
+paginate: 5
+
+paginate_path: "/articles/page:num"
+
 collections:
   tags:
     output: true
