@@ -1,4 +1,4 @@
-function createDot3() {
+function createEllipsis() {
     let dot3 = document.createElement("li");
     dot3.className = "page-item";
     let dot3Child = document.createElement("a");
@@ -13,8 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var pages = pagi_ul.children;
 
     if(pages.length > 4) {
-        var dot3left = createDot3();
-        var dot3right = createDot3();
+        var ellipsisLeft = createEllipsis();
+        var ellipsisRight = createEllipsis();
 
         var last_num = pages.length - 2;
         var page_current = document.getElementsByClassName("page-item active")[0];
@@ -41,16 +41,16 @@ document.addEventListener("DOMContentLoaded", function () {
             case "1":
             case "2":
             case "3":
-                pagi_ul.insertBefore(dot3right, page_last);
+                pagi_ul.insertBefore(ellipsisRight, page_last);
                 break;
             case (last_num - 2).toString():
             case (last_num - 1).toString():
             case (last_num).toString():
-                pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
+                pagi_ul.insertBefore(ellipsisLeft, pages[current_index - 1]);
                 break;
             default:
-                pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
-                pagi_ul.insertBefore(dot3right, page_last);
+                pagi_ul.insertBefore(ellipsisLeft, pages[current_index - 1]);
+                pagi_ul.insertBefore(ellipsisRight, page_last);
                 break;
         }
     }
