@@ -3,7 +3,7 @@ function createDot3() {
     dot3.className = "page-item";
     let dot3Child = document.createElement("a");
     dot3Child.className = "page-link";
-    dot3Child.text = "...";
+    dot3Child.text = "⋯";
     dot3.appendChild(dot3Child);
     return dot3;
 }
