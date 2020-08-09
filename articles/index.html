@@ -35,7 +35,7 @@ title: Articles
 <!-- Pagination nav -->
 <div id="pagination" class="mt-5">
     {% if paginator.total_pages > 1 %}
-    <nav aria-label="pagination">
+    <nav id="pagination_nav" aria-label="pagination">
         <ul class="pagination pagination-sm justify-content-center">
             {% if paginator.previous_page %}
             <li class="page-item">
