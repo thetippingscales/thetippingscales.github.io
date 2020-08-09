@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var page_last = pages[pages.length - 2];
 
         for(let i=1; i < pages.length - 1; i++) {
-            if(pages[i] !== page_current || pages[i] !== page_first || pages[i] !== page_last) {
+            if(pages[i] !== page_current && pages[i] !== page_first && pages[i] !== page_last) {
                 pagi_ul.removeChild(pages[i]);
             }
         }
