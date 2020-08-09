@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var page_current = document.getElementsByClassName("page-item active")[0];
         var page_last = pages[pages.length - 2];
         var remove_pages = [];
-
+        var current_index = 0;
         for(let i=1; i < pages.length - 1; i++) {
             switch (i) {
                 case 1:
@@ -32,6 +32,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     }
                     break;
             }
+            if(pages[i] === page_current) {
+                current_index = i;
+            }
         }
         for(let i=0; i < remove_pages.length; i++) {
             pagi_ul.removeChild(remove_pages[i]);
@@ -41,10 +44,10 @@ document.addEventListener("DOMContentLoaded", function () {
             pagi_ul.insertBefore(dot3right, page_last);
         }
         else if(page_current === page_last) {
-            pagi_ul.insertBefore(dot3left, page_current);
+            pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
         }
         else {
-            pagi_ul.insertBefore(dot3left, page_current);
+            pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
             pagi_ul.insertBefore(dot3right, page_last);
         }
     }
