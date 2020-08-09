@@ -42,15 +42,13 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         }
 
-        switch (page_current) {
-            case pages[1]:
-            case pages[2]:
-            case pages[3]:
+        switch (page_current.firstElementChild.textContent) {
+            case "1":
+            case "2":
                 pagi_ul.insertBefore(dot3right, page_last);
                 break;
-            case pages[pages.length - 4]:
-            case pages[pages.length - 3]:
-            case pages[pages.length - 2]:
+            case (pages.length - 3).toString():
+            case (pages.length - 2).toString():
                 pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
                 break;
             default:
