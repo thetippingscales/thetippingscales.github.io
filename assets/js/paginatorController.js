@@ -46,8 +46,10 @@ document.addEventListener("DOMContentLoaded", function () {
         switch (page_current.firstElementChild.textContent) {
             case "1":
             case "2":
+            case "3":
                 pagi_ul.insertBefore(dot3right, page_last);
                 break;
+            case (last_num - 2).toString():
             case (last_num - 1).toString():
             case (last_num).toString():
                 pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
