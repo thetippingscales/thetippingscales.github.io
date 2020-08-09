@@ -32,12 +32,14 @@ document.addEventListener("DOMContentLoaded", function () {
                     }
                     break;
             }
-            if(pages[i] === page_current) {
-                current_index = i;
-            }
         }
         for(let i=0; i < remove_pages.length; i++) {
             pagi_ul.removeChild(remove_pages[i]);
+        }
+        for(let i=0; i < pages.length; i++) {
+            if(pages[i] === page_current) {
+                current_index = i;
+            }
         }
 
         if(page_current === page_first) {
