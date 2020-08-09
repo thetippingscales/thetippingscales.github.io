@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var pagi_ul = document.getElementById("pagination_nav").firstElementChild;
     var pages = pagi_ul.children;
 
-    if(pages.length > 7) {
+    if(pages.length - 2 > 7) {
         var ellipsisLeft = createEllipsis();
         var ellipsisRight = createEllipsis();
 
