@@ -12,3 +12,7 @@ layout: default
         {{content}}
     </div>
 </div>
+
+{% if paginator.total_pages > 7 %}
+<script src="/assets/js/paginatorController.js"></script>
+{% endif %}
