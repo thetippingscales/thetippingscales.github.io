@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var pagi_nav = document.getElementById("pagination_nav");
     var pagi_ul = pagi_nav.firstElementChild;
     var pages = pagi_ul.children;
+    var last_num = pages.length - 2;
     if(pages.length > 4) {
         var dot3left = createDot3();
         var dot3right = createDot3();
@@ -47,8 +48,8 @@ document.addEventListener("DOMContentLoaded", function () {
             case "2":
                 pagi_ul.insertBefore(dot3right, page_last);
                 break;
-            case (pages.length - 3).toString():
-            case (pages.length - 2).toString():
+            case (last_num - 1).toString():
+            case (last_num).toString():
                 pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
                 break;
             default:
