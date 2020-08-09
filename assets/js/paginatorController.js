@@ -42,15 +42,19 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         }
 
-        if(page_current === page_first) {
-            pagi_ul.insertBefore(dot3right, page_last);
-        }
-        else if(page_current === page_last) {
-            pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
-        }
-        else {
-            pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
-            pagi_ul.insertBefore(dot3right, page_last);
+        switch (page_current) {
+            case pages[1]:
+            case pages[2]:
+                pagi_ul.insertBefore(dot3right, page_last);
+                break;
+            case pages[pages.length - 3]:
+            case pages[pages.length - 2]:
+                pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
+                break;
+            default:
+                pagi_ul.insertBefore(dot3left, pages[current_index - 1]);
+                pagi_ul.insertBefore(dot3right, page_last);
+                break;
         }
     }
 
