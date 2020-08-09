@@ -9,30 +9,24 @@ function createDot3() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    var pagi_nav = document.getElementById("pagination_nav");
-    var pagi_ul = pagi_nav.firstElementChild;
+    var pagi_ul = document.getElementById("pagination_nav").firstElementChild;
     var pages = pagi_ul.children;
-    var last_num = pages.length - 2;
+
     if(pages.length > 4) {
         var dot3left = createDot3();
         var dot3right = createDot3();
-        var page_first = pages[1];
+
+        var last_num = pages.length - 2;
         var page_current = document.getElementsByClassName("page-item active")[0];
-        var page_last = pages[pages.length - 2];
+        var page_last = pages[last_num];
         var remove_pages = [];
         var current_index = 0;
+
         for(let i=1; i < pages.length - 1; i++) {
-            switch (i) {
-                case 1:
-                    break;
-                case pages.length - 2:
-                    break;
-                default:
-                    if(pages[i] !== page_current && pages[i - 1] !== page_current && pages[i + 1] !== page_current) {
-                        remove_pages.push(pages[i]);
-                    }
-                    break;
+            if(i !== 1 && i !== last_num && pages[i] !== page_current && pages[i - 1] !== page_current && pages[i + 1] !== page_current) {
+                remove_pages.push(pages[i]);
             }
+
         }
         for(let i=0; i < remove_pages.length; i++) {
             pagi_ul.removeChild(remove_pages[i]);
