@@ -21,8 +21,16 @@ document.addEventListener("DOMContentLoaded", function () {
         var remove_pages = [];
 
         for(let i=1; i < pages.length - 1; i++) {
-            if(pages[i] !== page_current && pages[i] !== page_first && pages[i] !== page_last) {
-                remove_pages.push(pages[i]);
+            switch (i) {
+                case 1:
+                    break;
+                case pages.length - 2:
+                    break;
+                default:
+                    if(pages[i] !== page_current && pages[i - 1] !== page_current && pages[i + 1] !== page_current) {
+                        remove_pages.push(pages[i]);
+                    }
+                    break;
             }
         }
         for(let i=0; i < remove_pages.length; i++) {
