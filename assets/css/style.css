@@ -18,6 +18,7 @@
 .banner-articles {
     background-color: #937399;
     background-image: url("/assets/media/banner-gif-2.GIF");
+    background-position: center top;
 }
 
 .blog-content {
