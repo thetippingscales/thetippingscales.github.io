@@ -4,6 +4,10 @@ layout: default
 permalink: /contact
 ---
 
+{% capture blog-email-description %}
+    {% include_relative blog-email-description.md %}
+{% endcapture %}
+
 <div class="jumbotron banner banner-articles">
     <div class="container">
         <h1 class="display-3 text-white">Contact us</h1>
@@ -15,7 +19,7 @@ permalink: /contact
         <p>
             <a class="text-decoration-none" href="mailto:{{site.data.links.blog_email}}"><img src="/assets/icon/bootstrap-icons/icons/chat.svg" alt="Email" width="28" height="28" title="Email"> {{site.data.links.blog_email}}</a>
         </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        {{ blog-email-description | markdownify }}
     </div>
     <div class="row">
         <div class="col-md">
