@@ -69,22 +69,6 @@
     margin-top: 10%;
 }
 
-.external-link {
-    color: grey;
-}
-
-.external-link-facebook:hover {
-    color: #1877F2;
-}
-
-.external-link-twitter:hover {
-    color: #1DA1F2;
-}
-
-.external-link-instagram:hover {
-    color: #ED5475;
-}
-
 a {
     color: purple;
 }
