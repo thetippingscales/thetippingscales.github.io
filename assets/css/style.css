@@ -3,23 +3,10 @@
     background-size: cover;
     background-position: center center;
     text-shadow: 0 0 10px black;
-}
-
-.banner-home {
     background-image: url("/assets/media/banner-gif-1.GIF");
-    background-position: center center;
-    background-color: #937399;
+    background-color: #821cca;
 }
 
-.banner-about {
-    background-image: url("/assets/media/thumbnail_openday.jpg");
-}
-
-.banner-articles {
-    background-color: #937399;
-    background-image: url("/assets/media/banner-gif-2.GIF");
-    background-position: center top;
-}
 
 .blog-content {
     max-width: 750px;
