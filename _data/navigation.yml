@@ -1,6 +1,4 @@
 ---
-- name: New
-  link: "/new"
 - name: Home
   link: "/"
 - name: About
@@ -9,3 +7,5 @@
   link: "/articles/"
 - name: Contact
   link: "/contact"
+- name: New
+  link: "/new"
