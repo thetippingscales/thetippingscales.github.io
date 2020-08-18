@@ -44,4 +44,4 @@ fields:
   description: All tags must be added in 'Tags' before use (Case sensitive)
 pages:
 - _posts/2020-08-02-new-forestry-post-test.md
-- _posts/meeting-article.md
+- _posts/2020-08-18-meeting-article.md
