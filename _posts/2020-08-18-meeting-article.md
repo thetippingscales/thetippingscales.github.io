@@ -5,6 +5,7 @@ author: _people/seunghun-lee.md
 tags:
 - test
 - forestry
+- building
 title: Meeting article
 
 ---
