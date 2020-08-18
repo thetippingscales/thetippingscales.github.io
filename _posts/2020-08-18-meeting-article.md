@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-08-18 12:04:12 +0000
-author: _people/seunghun-lee.md
+author: _people/will.md
 tags:
 - test
 - forestry
