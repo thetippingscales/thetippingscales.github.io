@@ -12,3 +12,5 @@ title: Meeting article
 hello, this is from forestry.io
 
 2nd paragraph
+
+![](/uploads/the-wills-memorial-building-on-park-street-in-bristol-england.jpg)
