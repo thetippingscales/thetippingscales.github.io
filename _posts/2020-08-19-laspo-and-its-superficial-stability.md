@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2020-08-19 12:31:27 +0000
-author: []
-tags: []
+author: _people/conchobar.md
+tags:
+- mind_the_gap
 title: LASPO and its superficial stability
 
 ---
