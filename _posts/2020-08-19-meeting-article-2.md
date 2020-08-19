@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-08-19 12:05:39 +0000
-author: _people/will.md
+author: _people/max-bloom.md
 tags:
 - test
 - forestry
