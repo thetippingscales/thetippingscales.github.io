@@ -5,6 +5,7 @@ author: _people/will.md
 tags:
 - test
 - forestry
+- example
 title: Meeting article 2
 
 ---
