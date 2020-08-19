@@ -1,5 +1,5 @@
 ---
-picture: "/uploads/default-profile-image.png"
+picture: "/uploads/pro_bono_logo.png"
 title: Max Bloom
 position: tester
 
