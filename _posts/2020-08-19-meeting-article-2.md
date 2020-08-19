@@ -9,3 +9,5 @@ title: Meeting article 2
 
 ---
 This is 2nd tutorial meeting
+
+![](/uploads/pro_bono_logo.png)
