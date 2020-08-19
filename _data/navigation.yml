@@ -1,6 +1,4 @@
 ---
-- name: Questions
-  link: "/questions"
 - name: Home
   link: "/"
 - name: About
@@ -9,3 +7,5 @@
   link: "/articles/"
 - name: Contact
   link: "/contact"
+- name: Questions
+  link: "/questions"
