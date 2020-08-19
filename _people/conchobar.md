@@ -1,6 +1,6 @@
 ---
 picture: "/uploads/default-profile-image.png"
-title: Conchobar Jolliffe-Grimes
+title: Concobhar Jolliffe-Grimes
 position: Writer
 
 ---
