@@ -1,4 +1,6 @@
 ---
+- name: Questions
+  link: "/questions"
 - name: Home
   link: "/"
 - name: About
