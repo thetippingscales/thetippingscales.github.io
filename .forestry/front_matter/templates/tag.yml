@@ -10,4 +10,5 @@ fields:
     min: 1
 pages:
 - _tags/building.md
+- _tags/example.md
 - _tags/forestry.md
