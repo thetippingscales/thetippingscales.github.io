@@ -1,0 +1,27 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
+  config:
+    required: true
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+    min: 1
+- type: datetime
+  name: date
+  label: date
+  default: now
+  config:
+    required: true
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
