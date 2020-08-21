@@ -17,19 +17,20 @@ layout: default
         <h1 class="text-center">Articles from {{page.title}}</h1>
         <hr>
         <article>
+            {% assign name = page.title | downcase %}
             {% for post in site.posts %}
                 {% assign author = post.author | remove_first: "_people/" | remove_first: ".md" %}
                 {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
-                {% assign lastName = author | replace: "-", "" | remove_first: firstName %}
-                {% assign firstName = firstName | capitalize %}
-                {% assign lastName = lastName | capitalize %}
+                {% assign lastName = author | remove_first: firstName | remove_first: "-" %}
+                {% assign firstName = firstName %}
+                {% assign lastName = lastName %}
                 {% if lastName == "" %}
                     {% assign authorName = firstName %}
                 {% else %}
-                    {% assign authorName = firstName | append: " " | append: lastName %}
+                    {% assign authorName = firstName | append: " " | append: lastName | downcase %}
                 {% endif %}
 
-                {% if authorName == page.title %}
+                {% if authorName == name %}
                 <article class="mb-4">
                     <h2><a class="post post-title font-weight-bold text-decoration-none" href="{{post.url}}">{{ post.title }}</a></h2>
                     <span>
