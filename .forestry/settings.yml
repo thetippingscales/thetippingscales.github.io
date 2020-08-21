@@ -10,6 +10,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: documents
+  templates:
+  - blog-post
 - type: directory
   path: _people
   label: People
