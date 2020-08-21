@@ -16,7 +16,7 @@ fields:
   label: Picture
   default: "/uploads/default-profile-image.png"
 pages:
-- _people/Concobhar-Jolliffe-Grimes.md
+- _people/concobhar-jolliffe-grimes.md
 - _people/charlie-goodman.md
 - _people/max-bloom.md
 - _people/will.md
