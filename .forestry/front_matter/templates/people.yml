@@ -9,12 +9,22 @@ fields:
   - type: text
     name: name
     label: name
+    config:
+      required: true
+      min: 1
   - type: text
     name: position
     label: position
   - type: file
     name: picture
     label: picture
-  - type: text
-    name: description
+    default: "/uploads/default-profile-image.png"
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: description
