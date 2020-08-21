@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-12-13 13:31:27 +0000
-author: _people/conchobar.md
+author: _people/Concobhar-Jolliffe-Grimes.md
 tags:
 - mind_the_gap
 title: LASPO and its superficial stability
