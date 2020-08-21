@@ -21,11 +21,12 @@ fields:
   default: now
   config:
     required: true
-- type: text
-  name: author
-  label: author
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: tags
-  config:
-    use_select: false
+- name: author
+  type: include
+  config: {}
+  template: author
+  label: author
