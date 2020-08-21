@@ -1,44 +1,43 @@
-- name: "Alice"
-  position: "Tester"
+---
+- name: Alice
+  position: Tester
   picture: "/assets/media/default-profile-image.png"
-  description: "Alice is a fake person.
-
-   She is not real."
-- name: "Beck"
-  position: "Tester"
+  description: |-
+    Alice is a fake person.
+    She is not real.
+- name: Beck
+  position: Tester
   picture: "/assets/media/default-profile-image.png"
-  description: "Beck is not real person"
-- name: "Charlie Goodman"
-  position: "Tester"
+  description: Beck is not real person
+- name: Charlie Goodman
+  position: Tester
   picture: "/assets/media/default-profile-image.png"
-  description: "Charlie is an imaginary person
-
+  description: |-
+    Charlie is an imaginary person
     He's not real
-
-    He's created from new forestry setup"
-- name: "Concobhar Jolliffe-Grimes"
-  position: "Writer"
+    He's created from new forestry setup
+- name: Concobhar Jolliffe-Grimes
+  position: Writer
   picture: "/assets/media/default-profile-image.png"
-  description:
-- name: "Fred"
-  position: "Tester"
+  description: ''
+- name: Fred
+  position: Tester
   picture: "/assets/media/default-profile-image.png"
-  description: "He's not real"
-- name: "Jill"
-  position: "Tester"
+  description: He's not real
+- name: Jill
+  position: Tester
   picture: "/assets/media/default-profile-image.png"
-  description: "Jill is a fake user
-
-    She's not real"
-- name: "Max Bloom"
-  position: "Tester"
+  description: |-
+    Jill is a fake user
+    She's not real
+- name: Max Bloom
+  position: Tester
   picture: "/uploads/1a.png"
-  description: "max's description"
-- name: "Seunghun Lee"
-  position: "Developer"
+  description: max's description
+- name: Seunghun Lee
+  position: Developer
   picture: "/uploads/rallye-de-catalogne-wrc-2019-16.jpg"
-  description: "University of Bristol Computer Science Undergraduate
-
+  description: |-
+    University of Bristol Computer Science Undergraduate
     Seunghun made this blog website
-
-    You can find his github at [here](https://github.com/viper12590)"
+    You can find his github at [here](https://github.com/viper12590)
