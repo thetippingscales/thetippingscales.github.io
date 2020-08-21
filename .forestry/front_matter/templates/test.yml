@@ -1,4 +1,13 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: authors2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: authors2
