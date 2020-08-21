@@ -25,11 +25,3 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: author
-  type: blocks
-  label: author
-  template_types:
-  - author
-  config:
-    min: 
-    max: 
