@@ -1,5 +1,5 @@
 ---
-title: Alice Wonderland
+title: Alice
 position: Tester
 picture: "/assets/media/default-profile-image.png"
 
