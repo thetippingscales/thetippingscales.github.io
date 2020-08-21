@@ -21,12 +21,19 @@ fields:
   default: now
   config:
     required: true
+- name: author
+  type: select
+  default: Authors
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/authors.yml
+      path: ''
+  label: author
 - name: tags
   type: tag_list
   default: []
   label: tags
-- name: author
-  type: include
-  config: {}
-  template: author
-  label: author
