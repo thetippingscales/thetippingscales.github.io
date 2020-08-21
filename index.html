@@ -11,11 +11,11 @@ title: Home
 
 {% assign first_author = first_post.author | remove_first: "_people/" | remove_first: ".md" %}
 {% assign first_firstName = first_author | replace: "-", " "  | truncatewords: 1, "" %}
-{% assign first_lastName = first_author | replace: "-", "" | remove_first: first_firstName %}
+{% assign first_lastName = first_author | remove_first: first_firstName | remove_first: "-" %}
 
 {% assign second_author = second_post.author | remove_first: "_people/" | remove_first: ".md" %}
 {% assign second_firstName = second_author | replace: "-", " "  | truncatewords: 1, "" %}
-{% assign second_lastName = second_author | replace: "-", "" | remove_first: second_firstName %}
+{% assign second_lastName = second_author | remove_first: second_firstName | remove_first: "-" %}
 
 <div class="jumbotron banner">
   <div class="container">

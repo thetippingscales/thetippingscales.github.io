@@ -4,7 +4,7 @@ layout: default
 
 {% assign author = page.author | remove_first: "_people/" | remove_first: ".md" %}
 {% assign firstName = author | replace: "-", " "  | truncatewords: 1, "" %}
-{% assign lastName = author | replace: "-", "" | remove_first: firstName %}
+{% assign lastName = author | remove_first: firstName | remove_first: "-" %}
 
 <div class="container">
     <div id="blog-content" role="main" class="blog-content">
