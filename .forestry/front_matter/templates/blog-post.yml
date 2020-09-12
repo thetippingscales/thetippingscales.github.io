@@ -43,7 +43,6 @@ fields:
   label: Tags
   description: All tags must be added in 'Tags' before use (Case sensitive)
 pages:
+- _posts/2017-12-13-laspo-and-its-superficial-stability.md
 - _posts/2020-08-02-new-forestry-post-test.md
 - _posts/2020-08-18-meeting-article.md
-- _posts/2017-12-13-laspo-and-its-superficial-stability.md
-- _posts/meeting-article-2.md
