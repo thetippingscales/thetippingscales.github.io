@@ -1,7 +1,7 @@
 ---
 title: Seunghun Lee
 position: Developer
-picture: /uploads/rallye-de-catalogne-wrc-2019-16.jpg
+
 ---
 University of Bristol Computer Science Undergraduate
 
