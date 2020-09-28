@@ -1,6 +1,7 @@
 ---
 title: Seunghun Lee
 position: Developer
+picture: /assets/media/default-profile-image.png
 
 ---
 University of Bristol Computer Science Undergraduate
