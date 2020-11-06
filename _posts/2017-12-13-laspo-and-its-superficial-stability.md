@@ -1,12 +1,14 @@
 ---
 layout: post
-date: 2017-12-13 13:31:27 +0000
+date: 2017-12-13T13:31:27.000+00:00
 author: _people/concobhar-jolliffe-grimes.md
 tags:
 - mind_the_gap
 title: LASPO and its superficial stability
 
 ---
+_Disclaimer: The views expressed below are that of the individual author._
+
 Austerity demands a cost and legal aid is that sacrificial lamb, as the government have fostered a profit-over-person culture. In 2013, in an attempt to curtail costs, The Legal Aid, Sentencing and Punishment of Offenders Act, ruthlessly stripped the legal aid budget of £230m; the fundamental base that provided for the poorest and neediest in society access to courts. Specifically, the act essentially took all immigration work out of scope, leaving unrepresented appellants, over-stretched pro bono services and self-funding clients, to the detriment of the local community.
 
 The unpopularity of the bill was undeniable. Defeated 14 times in the House of Lords and finally passed by the narrowest of margins. Lord Bach went as far as to label it “ludicrous, immoral and wicked.” When the act eventually came into force, Lord Bach’s hostility materialised and there was a sharp fall in immigration work to practically nothing. Such cuts to legal aid meant lack of free representation. Surely miscarriages of justice must follow. Furthermore, asylum cases were also left alone which themselves are subject to long delays and high complexity.
