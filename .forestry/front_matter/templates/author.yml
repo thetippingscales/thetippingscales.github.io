@@ -16,6 +16,7 @@ fields:
   label: Picture
   default: "/uploads/default-profile-image.png"
 pages:
+- _people/aiya-nakash.md
 - _people/chloe-mackinnon.md
 - _people/concobhar-jolliffe-grimes.md
 - _people/disha-gowdra.md
