@@ -1,14 +1,19 @@
+---
 blog:
-  email: "example_blog@mail.com"
-  description: "Blog Email Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-
+  email: example_blog@mail.com
+  description: Blog Email Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+    commodo consequat.
 main:
-  email: "example_main@mail.com"
-  website: "https://www.uobprobono.co.uk/"
-  description: "Main website and email Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-
+  email: example_main@mail.com
+  website: https://www.uobprobono.co.uk/
+  description: Main website and email Lorem ipsum dolor sit amet, consectetur adipiscing
+    elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+    ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+    ea commodo consequat.
 social_media:
-  facebook: "https://www.facebook.com/uobprobosoc"
-  twitter: "https://twitter.com/uobprobonosoc"
-  instagram: "https://www.instagram.com/uobprobonosoc/"
-  description: "Social media Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  facebook: https://www.facebook.com/uobprobosoc
+  twitter: https://twitter.com/uobprobonosoc
+  instagram: https://www.instagram.com/uobprobonosoc/
+  description: ''
