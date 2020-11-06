@@ -4,11 +4,9 @@ date: 2017-10-10 17:39:42 +0000
 author: _people/chloe-mackinnon.md
 tags:
 - mind_the_gap
-title: Migrant children navigating the tribunal system alone
+title: 'Revelations of a society’s soul: LASPO 2012 and the voiceless children'
 
 ---
-**Revelations of a society’s soul: LASPO 2012 and the voiceless children**
-
 _Disclaimer: The views expressed below are that of the individual author._
 
 When the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO) was introduced, it severely impacted the provision of legal aid for immigration cases. In fact, it abolished it in almost all instances. This has had huge implications for the application of the UN Convention on the Rights of the Child (UNCRC). One group particularly affected is unaccompanied migrant children, alone in what is a foreign country to them and separated from their parents. In this article I want to provide a snapshot of the rights issued faced by a group of children fundamentally denied a voice, and whose realisation of their rights under the UNCRC is continuously undermined.
