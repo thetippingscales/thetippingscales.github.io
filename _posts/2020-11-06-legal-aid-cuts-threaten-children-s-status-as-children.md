@@ -7,7 +7,7 @@ tags:
 title: Legal aid cuts threaten children’s status as children
 
 ---
-_Disclaimer: The views expressed below are that of the individual author._ 
+_Disclaimer: The views expressed below are that of the individual author._
 
 Children seeking settled status in the UK have been left ‘vulnerable and with limited access to justice’ after recent cuts to legal aid. On paper, there is a wide discretion to grant children settled status in the UK. However, in practise, settled status is increasingly being denied. Without specialist legal advice, children are being incorrectly deemed adults and hence have little hope of acquiring settled status in the UK. This article will first examine the contrasting pathways to settled status for children and adults. There will then be a focus on the issues many children face in the process of acquiring settled status; namely the issue of the ‘age assessment’ and children not realising the importance of gaining settled status before their 18th birthday. The article will conclude with suggested reforms to reverse the injustices of cuts to legal aid.
 
@@ -28,7 +28,3 @@ A further complication in the process of a child acquiring status is the ‘age 
 **Recommendations**
 
 Clearly there are serious injustices in the current process for children seeking settled status. Children being incorrectly deemed adults and being denied legal advice has left the most vulnerable, unable to access their rights to settled status. Clearly this is of ‘no benefit to anyone’; the process is ‘protracted’ and ultimately ‘putting children at risk’. All children seeking settled status should be provided with publically funded specialist legal advice. Indeed, recent proposals from the Legal Services Commission suggest age disputes cases should be funded in the future. It is now time for the government to commit to a complete review of the process to protect the most vulnerable children from the adverse effects of cuts to legal aid.
-
-**Ellie Brad**
-
-Mind The Gap Contributor 
