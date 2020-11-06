@@ -28,7 +28,3 @@ Where the law enacted by Parliament fails the litigants, judges are having to us
 In June 2017, the Law Society released its review of LASPO, years after its measures came into force. The report highlights access to justice as one of three main areas of concern that the Government must address but also recognises the wider impact of the cuts on the justice system in general, acknowledging the massive increase in LiP. The Children’s Society are launching a legal challenge of the government’s refusal to bring immigration applications for separated and unaccompanied children within scope of legal aid. Amnesty International calls for all under-18s to be given legal aid, regardless of the circumstance.
 
 The government has announced a review of its controversial cuts to legal aid by April 2018 and it will be interesting to see whether the rule of law is really just a make believe in post-LASPO Britain.
-
-**Roshni Popli**
-
-Mind The Gap Writer (2017)
