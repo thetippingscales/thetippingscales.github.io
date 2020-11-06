@@ -1,11 +1,12 @@
 ---
 picture: "/uploads/default-profile-image.png"
-title: Morgan Buckley
+title: Hannah Mattocks
 position: Co-Founder and Editor
 
 ---
-**Morgan** is a law student at the University of Bristol and has particular interests in human rights, immigration law and constitutional law.
+**Hannah** is a law student at the University of Bristol and Placement Manager with the University of Bristol Pro Bono Society (2020-2021). She has particular interests in human rights, medical, and commercial law.
 
-Outside of law, Morgan is also interested in fine art, baking and loves any kind of sport. 
+Outside of law, Hannah is also interested in drawing, cooking, and netball.
 
-Contact Morgan at: Xk19666@bristol.ac.uk
+  
+Contact Hannah at: bs19355@bristol.ac.uk
