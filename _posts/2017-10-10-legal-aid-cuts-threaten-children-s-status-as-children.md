@@ -1,0 +1,30 @@
+---
+layout: post
+date: 2017-10-10 17:18:08 +0000
+author: _people/ellie-brad.md
+tags:
+- mind_the_gap
+title: Legal aid cuts threaten children’s status as children
+
+---
+_Disclaimer: The views expressed below are that of the individual author._
+
+Children seeking settled status in the UK have been left ‘vulnerable and with limited access to justice’ after recent cuts to legal aid. On paper, there is a wide discretion to grant children settled status in the UK. However, in practise, settled status is increasingly being denied. Without specialist legal advice, children are being incorrectly deemed adults and hence have little hope of acquiring settled status in the UK. This article will first examine the contrasting pathways to settled status for children and adults. There will then be a focus on the issues many children face in the process of acquiring settled status; namely the issue of the ‘age assessment’ and children not realising the importance of gaining settled status before their 18th birthday. The article will conclude with suggested reforms to reverse the injustices of cuts to legal aid.
+
+**The process of acquiring settled status**
+
+A child under the age of 18 must fulfil certain criteria in order to acquire settled status in the UK. The Home Office has a discretionary power to grant citizenship to any child, with a duty to place the child’s welfare at the heart of its decision making. This is far more liberal than the policies of other countries and in the majority of cases, the Home Office will utilise their wide powers to grant children citizenship. However, once a child reaches the age of 18, and is therefore an adult, settled status becomes much harder to acquire, as far more stringent requirements must be met. A clear example of this is the requirement that children separated from their parents must have spent seven years in the UK before they are granted leave to remain; once the child is 18 this requirement is extended and the they must have lived in the UK for half their life. This is much harder to satisfy and in many cases, delays, if not denies a person the acquisition of settled status.
+
+**Core Issues**
+
+**Children are unaware of the importance of gaining settled status before they reach the age of 18**
+
+As a consequence of the more stringent criteria for an adult to acquire settled status, it is critical that those aspiring to get settled status are aware of this. In many cases, it is only when children are trying to apply to higher education that it becomes apparent they are not entitled to loans and funding. They are simply unaware of their vulnerability until this point when in many cases they have already reached the age of 18. This makes university an unobtainable dream for many as they are not eligible for student loans. Government estimations suggest that there are approximately ‘2,500 cases each year involving children as claimants who no longer get access to legal aid for their immigration cases’ and without professional support they simply can’t access justice. This is demonstrated in the case of Ms Y (the name the applicant has been given). Ms Y was soon approaching the age of 18 and in a panic, sent in an application for citizenship. She neglected to enclose a photo of herself and subsequently it was returned to her unopened. By the time she resubmitted her application she has already turned 18. The Home Office subsequently refused her application and she was therefore not able to take up her university place. It is highly likely that had her application been submitted before she was 18, her application would have been successful. This case shows how important it is for children to be assisted in regularising their status before they turn 18. If Ms Y had access to legal advice from the beginning of her process to acquire status this could have been avoided. Alice Wyss, Amnesty International’s UK researcher argues, ‘we are in danger of creating a two tier civil justice system open to those who can afford it, but increasingly closed to the poorest and most in need of protection.
+
+**Age Assessments**
+
+A further complication in the process of a child acquiring status is the ‘age assessment’ where the age of this child is determined. On face value this may seem a straightforward step in the process. However, many children who enter the UK are alone and do not know what their age is. As a result, there is an ‘overreliance on physical appearance’ to produce an estimate of their age. Where their age is being disputed ‘they are simply assumed to be adults’ and are denied the rights and privileges of under 18s. In 2005, 45% of all applications from asylum seeking children, separated from their parents, had their age disputed and were treated as adults. There is a further issue here, as there is no independent review process to review the fairness of the age assessment. Yet again these children have been left with no means to challenge these decisions due to a lack of legal aid. The process is complex and expensive, as it is necessary to involve both welfare solicitors and medical experts. Children cannot be expected to make immigration claims on their own. They are put at an ‘automatic disadvantage’ with limited opportunity to successfully challenge their adult status and more importantly have little hope of gaining settled status.
+
+**Recommendations**
+
+Clearly there are serious injustices in the current process for children seeking settled status. Children being incorrectly deemed adults and being denied legal advice has left the most vulnerable, unable to access their rights to settled status. Clearly this is of ‘no benefit to anyone’; the process is ‘protracted’ and ultimately ‘putting children at risk’. All children seeking settled status should be provided with publically funded specialist legal advice. Indeed, recent proposals from the Legal Services Commission suggest age disputes cases should be funded in the future. It is now time for the government to commit to a complete review of the process to protect the most vulnerable children from the adverse effects of cuts to legal aid.
