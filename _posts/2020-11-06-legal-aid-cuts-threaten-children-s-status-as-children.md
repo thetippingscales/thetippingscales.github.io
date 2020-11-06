@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-06 18:18:08 +0000
-author: []
+author: _people/ellie-brad.md
 tags:
 - mind_the_gap
 title: Legal aid cuts threaten children’s status as children
