@@ -8,5 +8,6 @@ position: Co-Founder and Editor
 
 Outside of law, Hannah is also interested in drawing, cooking, and netball.
 
-  
-Contact Hannah at: bs19355@bristol.ac.uk
+Contact Hannah at:
+
+bs19355@bristol.ac.uk
