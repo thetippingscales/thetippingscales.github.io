@@ -1,6 +1,6 @@
 ---
 picture: "/uploads/default-profile-image.png"
-title: "(*) Chloe Mackinnon"
+title: Chloe Mackinnon
 position: Mind The Gap Writer (2017)
 
 ---
