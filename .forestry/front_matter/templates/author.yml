@@ -25,8 +25,9 @@ fields:
     max: 
     step: 
     required: true
-  description: List of authors in /about page will get sorted by priority.<br>Default
-    value is 0
+  description: List of authors in /about page will get sorted by priority.<br>Lower
+    numbers get higher priority.<br>If the priority of multiple authors is equal,
+    they are sorted alphabetically.<br>The default value is 0
 pages:
 - _people/aiya-nakash.md
 - _people/chloe-mackinnon.md
