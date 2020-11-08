@@ -17,14 +17,17 @@ fields:
   default: "/uploads/default-profile-image.png"
 - name: priority
   type: number
-  label: priority
-  description: ''
+  label: Priority
   default: 0
   required: true
   config:
     min: 
     max: 
     step: 
+    required: true
+  description: List of authors in /about page will get sorted by priority.<br>Lower
+    numbers get higher priority.<br>If the priority of multiple authors is equal,
+    they are sorted alphabetically.<br>The default value is 0
 pages:
 - _people/aiya-nakash.md
 - _people/chloe-mackinnon.md
@@ -34,3 +37,4 @@ pages:
 - _people/hannah-mattocks.md
 - _people/morgan-buckley.md
 - _people/roshni-popli.md
+- _people/test.md
