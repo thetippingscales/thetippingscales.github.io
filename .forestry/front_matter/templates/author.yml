@@ -15,6 +15,16 @@ fields:
   name: picture
   label: Picture
   default: "/uploads/default-profile-image.png"
+- name: priority
+  type: number
+  label: priority
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _people/aiya-nakash.md
 - _people/chloe-mackinnon.md
