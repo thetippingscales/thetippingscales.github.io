@@ -11,6 +11,7 @@ fields:
   description: Spacing between words is not allowed.<br>Use '_' (Underscore) instead
     of ' ' (Space)
 pages:
+- _tags/asdf_dafa.md
 - _tags/constitutional_law.md
 - _tags/human_rights_act.md
 - _tags/mind_the_gap.md
