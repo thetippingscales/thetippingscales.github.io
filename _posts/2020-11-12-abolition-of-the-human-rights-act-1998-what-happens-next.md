@@ -4,7 +4,7 @@ date: 2020-11-12T16:13:00.000+00:00
 author: _people/morgan-buckley.md
 tags:
 - human_rights_act
-- constitutional_rights
+- constitutional_law
 title: 'Abolition of the Human Rights Act 1998: What happens next?'
 
 ---
