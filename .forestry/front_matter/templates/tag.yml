@@ -8,6 +8,8 @@ fields:
   config:
     required: true
     min: 1
+  description: Spacing between words is not allowed.<br>Use '_' (Underscore) instead
+    of ' ' (Space)
 pages:
 - _tags/constitutional_law.md
 - _tags/human_rights_act.md
