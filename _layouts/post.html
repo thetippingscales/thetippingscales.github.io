@@ -19,7 +19,7 @@ layout: default
             <img src="/assets/icon/bootstrap-icons/icons/tags.svg" alt="" width="16" height="16" title="Tags">
             Tags:
             {% for tag in page.tags %}
-            <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+            <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag | downcase }}">{{ tag }}</a>
             <a> / </a>
             {% endfor %}
         </small></p>
