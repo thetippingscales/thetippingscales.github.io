@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2020-11-12 16:13:00 +0000
+date: 2020-11-12T16:13:00.000+00:00
 author: _people/morgan-buckley.md
 tags:
-- human rights act
-- constitutional rights
+- human_rights_act
+- constitutional_rights
 title: 'Abolition of the Human Rights Act 1998: What happens next?'
 
 ---
