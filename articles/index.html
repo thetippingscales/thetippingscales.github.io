@@ -20,7 +20,7 @@ title: Articles
         <p class="text-center">
             <small>Tags:
                 {% for tag in post.tags %}
-                <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag }}">{{ tag }}</a>
+                <a class="text-decoration-none" href="{{ site.url }}/tags/{{ tag | downcase }}">{{ tag }}</a>
                 <a> / </a>
                 {% endfor %}
             </small>
