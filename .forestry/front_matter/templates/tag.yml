@@ -10,6 +10,5 @@ fields:
     min: 1
 pages:
 - _tags/constitutional-law.md
-- _tags/human-rights-act.md
 - _tags/human_rights_act.md
 - _tags/mind_the_gap.md
