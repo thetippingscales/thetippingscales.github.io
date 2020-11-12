@@ -8,10 +8,9 @@ tags:
 title: 'Abolition of the Human Rights Act 1998: What happens next?'
 
 ---
-
 ![](/uploads/88154_istock_000020233382_xxxlarge.jpg)
 
-_Disclaimer: The views expressed in this article are solely those of the author._ 
+_Disclaimer: The views expressed below are that of the individual author._
 
 Although the 2019 conservative manifesto seems like a distant memory amidst the ongoing COVID-19 pandemic, there are still valid concerns relating to the proposals for a British Bill of Rights and repeal of the _Human Rights Act 1998, hereafter referred to as the_ [_HRA_](https://www.legislation.gov.uk/ukpga/1998/42/contents "Human Rights Act")_._ In this piece I aim to expound on the detrimental constitutional consequences attached to the abolition of the _HRA_, consider the profoundly negative impacts of repealing the _HRA_ on international human rights, discuss the potential disunion of the devolved legislature in the UK and the probable escalation of Westminster-centric policy making thus creating further disparity between the public and national politics. Furthermore, this piece aims to dismantle the concept of a British Bill of Rights by expelling the Eurosceptic myths surrounding the _HRA_ and assessing the inadequacy of judicial tools found at common law. Fundamentally, the common law is ill-equipped to act as a substitute for the complexities of the HRA, and the abolition of the HRA will inevitably lead to significant miscarriages of justice.
 
