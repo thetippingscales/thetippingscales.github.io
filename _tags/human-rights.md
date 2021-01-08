@@ -1,4 +1,4 @@
 ---
-title: human rights
+title: human_rights
 
 ---
