@@ -6,7 +6,7 @@ tags:
 - covid_19
 - worker_rights
 - human_rights
-title: 'Seafarers: The forgotten key workers of the pandemic?'
+title: 'Seafarers: The Forgotten Key Workers of the Pandemic?'
 
 ---
 ![](/uploads/screenshot-2021-01-08-at-11-31-47.png)
