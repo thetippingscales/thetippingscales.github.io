@@ -8,7 +8,7 @@ tags:
 title: 'Abolition of the Human Rights Act 1998: What happens next?'
 
 ---
-![](/uploads/88154_istock_000020233382_xxxlarge.jpg)
+![](/uploads/canva-photo-editor.png)
 
 _Disclaimer: The views expressed below are that of the individual author._
 
