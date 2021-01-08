@@ -3,9 +3,9 @@ layout: post
 date: 2021-01-07 00:00:00 +0000
 author: _people/myles-anderson.md
 tags:
-- COVID-19
-- human rights
-- worker rights
+- covid_19
+- worker_rights
+- human_rights
 title: 'Seafarers: The forgotten key workers of the pandemic?'
 
 ---
