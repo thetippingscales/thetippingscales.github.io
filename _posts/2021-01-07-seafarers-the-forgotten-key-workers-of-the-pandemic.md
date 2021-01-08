@@ -9,7 +9,7 @@ tags:
 title: 'Seafarers: The Forgotten Key Workers of the Pandemic?'
 
 ---
-![](/uploads/screenshot-2021-01-08-at-11-31-47.png)
+![](/uploads/crew_man_isolation.jpg)
 
 _Disclaimer: The views expressed below are that of the individual author._
 
