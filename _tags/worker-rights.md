@@ -1,0 +1,4 @@
+---
+title: worker rights
+
+---
