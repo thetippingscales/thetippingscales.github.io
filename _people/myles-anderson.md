@@ -1,6 +1,6 @@
 ---
 picture: "/uploads/default-profile-image.png"
-priority: 0
+priority: 2
 title: Myles Anderson
 position: Writer
 
