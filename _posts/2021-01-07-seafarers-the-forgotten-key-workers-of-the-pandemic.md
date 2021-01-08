@@ -6,12 +6,11 @@ tags: []
 title: 'Seafarers: The forgotten key workers of the pandemic?'
 
 ---
-
 ![](/uploads/screenshot-2021-01-08-at-11-31-47.png)
 
 _Disclaimer: The views expressed below are that of the individual author._
 
-> _“We are deeply indebted to all the key workers, the heroes of this uneven battle, the doctors, the nurses, the scientists and others, but also to our seafarers who work tirelessly day and night during the pandemic”._
+> ##### _“We are deeply indebted to all the key workers, the heroes of this uneven battle, the doctors, the nurses, the scientists and others, but also to our seafarers who work tirelessly day and night during the pandemic”_
 
 Currently, it is estimated that 400,000 seafarers are stuck at sea, 2,000 of those are from the UK, and many crew members have been retained onboard vessels for in excess of 18 months. The law in this area is clear, the ILO’s 2006 Maritime Labour Convention sets an 11-month maximum period that seafarers can be onboard for without leave. Regulation 2.5 states that seafarers have a right to be repatriated at the end of their contract and that flag states and port states have a responsibility to ensure this. This article explores the real stories of seafarers’ experiences during the pandemic and then looks to the future exploring what needs to be done to protect these workers.
 
@@ -33,4 +32,4 @@ Designating seafarers as key workers will also go some way to giving priority to
 
 **Concluding remarks**
 
-Seafarers have been working 10-12-hour shifts, 7 days a week throughout the pandemic. They have been stuck onboard vessels for months with no leave to visit friends and family. Without the service of seafarers, the supply chains that have kept us fed and medical equipment in stock would collapse. Despite their importance they are the forgotten people of the pandemic with few resolving to take responsibility for their safety,and a lack of political will to take their mental and physical well-being seriously. Designation of seafarers as key workers and priority for vaccination will go a long way in solving the issues of safety and repatriation within the industry. 
+Seafarers have been working 10-12-hour shifts, 7 days a week throughout the pandemic. They have been stuck onboard vessels for months with no leave to visit friends and family. Without the service of seafarers, the supply chains that have kept us fed and medical equipment in stock would collapse. Despite their importance they are the forgotten people of the pandemic with few resolving to take responsibility for their safety,and a lack of political will to take their mental and physical well-being seriously. Designation of seafarers as key workers and priority for vaccination will go a long way in solving the issues of safety and repatriation within the industry.
