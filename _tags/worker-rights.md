@@ -1,4 +1,4 @@
 ---
-title: worker rights
+title: worker_rights
 
 ---
