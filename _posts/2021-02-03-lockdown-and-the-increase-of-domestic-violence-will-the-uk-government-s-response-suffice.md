@@ -9,6 +9,8 @@ title: 'Lockdown and the increase of domestic violence: Will the UK governmentâ€
   suffice?'
 
 ---
+![](/uploads/dom-vio-pic.png)
+
 _Disclaimer: The views expressed below are that of the individual author._
 
 Domestic violence is a serious social and public health issue prevalent in every society, whether reported by the victim or not. The severity of domestic abuse is evident worldwide, and the second wave of coronavirus has only sought to exacerbate this issue. The number of cases in the UK doubled throughout the first lockdown, again highlighting the extremity of this situation. This poses questions as to the safety of women and young girls, as well the difficulties these individuals face escaping these situations. However, it is important to acknowledge that women are not the solve victims with a minority of these cases affecting men.
