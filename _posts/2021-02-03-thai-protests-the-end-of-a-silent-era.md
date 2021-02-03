@@ -8,7 +8,7 @@ tags:
 title: 'Thai Protests: The End of a Silent Era '
 
 ---
-![](/uploads/thai-pic.png)
+![](/uploads/thai-pic-final.png)
 
 _Disclaimer: The views expressed below are that of the individual author._
 
