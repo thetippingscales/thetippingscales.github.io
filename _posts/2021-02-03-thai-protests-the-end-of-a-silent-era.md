@@ -8,6 +8,8 @@ tags:
 title: 'Thai Protests: The End of a Silent Era '
 
 ---
+![](/uploads/thai-pic.png)
+
 _Disclaimer: The views expressed below are that of the individual author._
 
 King, Maha’seccentricity and unconstitutional behaviour have undoubtedly added fuel to the fire that is the pro-democracy protests. Protests areled by mostly students fighting against the improper exercises of power committed by the Thai government and monarchy. The dissolution of the pro-democracy Future Forward Party, a critic of the prime minister and his administration, stirred anti-authoritarian sentiments in the younger generation who are tired of the inevitable conclusion dissentients meet. Protesters’ demands include the dissolution of parliament, the end of repression of dissidents, the creation of a new constitution and lastly, reformation of the monarchy. The three-finger salute, banned during the 2014 military coup, has returned as a symbol of the protests and the desire for proper democracy.
