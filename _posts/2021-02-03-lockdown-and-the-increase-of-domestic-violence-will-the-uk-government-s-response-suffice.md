@@ -2,7 +2,9 @@
 layout: post
 date: 2021-02-03 12:36:16 +0000
 author: _people/ella-newman.md
-tags: []
+tags:
+- united_kingdom
+- covid_19
 title: 'Lockdown and the increase of domestic violence: Will the UK government’s response
   suffice?'
 
