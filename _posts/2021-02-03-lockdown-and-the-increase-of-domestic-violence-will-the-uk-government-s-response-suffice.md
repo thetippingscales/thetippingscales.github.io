@@ -9,7 +9,7 @@ title: 'Lockdown and the increase of domestic violence: Will the UK governmentâ€
   suffice?'
 
 ---
-![](/uploads/dom-vio-pic.png)
+![](/uploads/dv-pic.png)
 
 _Disclaimer: The views expressed below are that of the individual author._
 
