@@ -2,7 +2,8 @@
 layout: post
 date: 2021-02-11 14:53:30 +0000
 author: _people/emmanuelle-nemorin.md
-tags: []
+tags:
+- modern_slavery
 title: 'Modern Slavery: is it closer to home than we think?'
 
 ---
