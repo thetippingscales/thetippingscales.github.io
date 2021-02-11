@@ -8,6 +8,7 @@ tags:
 title: 'Black Women and the NHS: Who will protect them?'
 
 ---
+_Disclaimer: The views expressed below are that of the individual author._
 
 In November 2020, the British Parliament’s Joint Committee on Human Rights published a formal report entitled “Black people, racism, and human rights.” Amongst a slew of other grievances, the report found that Black women are currently five times more likely to die in childbirth than White women in the UK. The report admits that “the reasons for this disparity are not fully understood”, however “socio-economic and physiological factors may be at play”. The mystification surrounding the reasons for such a wide disparity can be dispelled by consulting Black women who work within the British medical profession themselves.
 
@@ -25,7 +26,7 @@ The report calls for a new body to be instated- similar to the Commission for Ra
 
 The report states that “the failure to act in response to reports and inquiries erodes the trust of Black people in the state and further compounds the impact of discrimination and denial of human rights.” It is critical to stress the importance of human rights regarding maternal mortality and disparities within the healthcare system. We must return agency to Black people and Black mothers by holding the Government to account of its promise to treat us all equally.
 
-**REPORT: **[**https://committees.parliament.uk/publications/3376/documents/32359/default/**](https://committees.parliament.uk/publications/3376/documents/32359/default/ "https://committees.parliament.uk/publications/3376/documents/32359/default/")
+\**REPORT: **[**https://committees.parliament.uk/publications/3376/documents/32359/default/**](https://committees.parliament.uk/publications/3376/documents/32359/default/ "https://committees.parliament.uk/publications/3376/documents/32359/default/")
 
 ***
 
