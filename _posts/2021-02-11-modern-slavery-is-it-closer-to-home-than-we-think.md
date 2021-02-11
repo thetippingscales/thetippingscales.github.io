@@ -4,9 +4,11 @@ date: 2021-02-11 14:53:30 +0000
 author: _people/emmanuelle-nemorin.md
 tags:
 - modern_slavery
-title: 'Modern Slavery: is it closer to home than we think?'
+title: 'Modern Slavery: Is it closer to home than we think?'
 
 ---
+![](/uploads/slavery-edited-pic.png)
+
 _Disclaimer: The views expressed below are that of the individual author._
 
 Modern slavery is defined as the recruitment, movement, harbouring or receiving of people through the use of force, coercion, abuse of vulnerability, deception or any other means for the purpose of exploitation. While modern slavery is a global issue which is often well-publicised, we don’t tend to regard it as an issue which greatly affects us in the UK. However, recent statistics have shown that, in actual fact, it is an equally prevalent issue within our country. The number of victims of modern slavery in the UK seems to be increasing year on year, with the number of British victims who escaped slavery almost doubling in the last year. Additionally, a report by the Salvation Army stated that growing numbers are caught in county lines gangs and labour exploitation. I intend to delve deeper into these particular issues and explore the effects that they are having on many Britons’ Article 3 right to freedom from torture and inhuman or degrading treatment, under the Human Rights Act 1998.
