@@ -2,7 +2,9 @@
 layout: post
 date: 2021-02-04 14:43:27 +0000
 author: _people/shamar-gunning.md
-tags: []
+tags:
+- misogynoir
+- medical_law
 title: 'Black Women and the NHS: Who will protect them?'
 
 ---
