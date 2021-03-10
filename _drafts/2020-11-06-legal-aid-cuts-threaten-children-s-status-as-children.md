@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-11-06 18:18:08 +0000
+date: 2020-11-06T18:18:08.000+00:00
 author: _people/ellie-brad.md
 tags:
 - mind_the_gap

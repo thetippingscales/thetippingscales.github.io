@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-10-17 17:45:58 +0000
+date: 2017-10-17T17:45:58.000+00:00
 author: _people/disha-gowdra.md
 tags:
 - mind_the_gap

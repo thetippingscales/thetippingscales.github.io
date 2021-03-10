@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-10-10 17:39:42 +0000
+date: 2017-10-10T17:39:42.000+00:00
 author: _people/chloe-mackinnon.md
 tags:
 - mind_the_gap

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-06-08 17:27:43 +0000
+date: 2017-06-08T17:27:43.000+00:00
 author: _people/roshni-popli.md
 tags:
 - mind_the_gap
