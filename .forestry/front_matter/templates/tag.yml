@@ -12,7 +12,6 @@ fields:
     of ' ' (Space)
 pages:
 - _tags/covid-19.md
-- _tags/covid_19.md
 - _tags/global.md
 - _tags/human-rights.md
 - _tags/human_rights_act.md
