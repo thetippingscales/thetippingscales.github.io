@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-02-11 14:53:30 +0000
+date: 2021-02-11T14:53:30.000+00:00
 author: _people/emmanuelle-nemorin.md
 tags:
 - modern_slavery
