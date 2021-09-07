@@ -1,5 +1,4 @@
 ---
 title: misogynoir
-published: false
 
 ---
