@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-02-04 14:43:27 +0000
+date: 2021-02-04T14:43:27.000+00:00
 author: _people/shamar-gunning.md
 tags:
 - misogynoir
