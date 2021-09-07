@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-01-21 12:36:16 +0000
+date: 2021-01-21T12:36:16.000+00:00
 author: _people/ella-newman.md
 tags:
 - united_kingdom
