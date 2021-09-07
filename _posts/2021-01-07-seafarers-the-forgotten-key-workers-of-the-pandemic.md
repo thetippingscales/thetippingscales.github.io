@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-01-07 00:00:00 +0000
+date: 2021-01-07T00:00:00.000+00:00
 author: _people/myles-anderson.md
 tags:
 - covid_19
