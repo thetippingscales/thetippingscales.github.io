@@ -1,4 +1,4 @@
 ---
-title: COVID_19
+title: covid_19
 
 ---
