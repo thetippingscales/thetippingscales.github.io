@@ -1,4 +1,4 @@
 ---
-title: Thai_protest
+title: thai_protest
 
 ---
