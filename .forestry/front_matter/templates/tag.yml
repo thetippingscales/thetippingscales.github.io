@@ -8,7 +8,7 @@ fields:
   config:
     required: true
     min: 1
-  description: Spacing between words is not allowed.<br>Use '_' (Underscore) instead
+  description: Capital letters are not allowed.<br>Spacing between words is not allowed.<br>Use '_' (Underscore) instead
     of ' ' (Space)
 pages:
 - _tags/covid_19.md
