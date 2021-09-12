@@ -1,10 +1,10 @@
 .banner {
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center right;
     text-shadow: 0 0 10px black;
     background-image: url("/assets/media/thetippingscales-banner.png");
-    background-color: #821cca;
+    background-color: #afbdff;
 }
 
 
@@ -22,47 +22,46 @@
 }
 
 .post-title:hover {
-    /*color: #ac53bb;*/
-    color: purple;
+    color: #5271ff;
 }
 
 /*override btn btn-primary*/
 .btn.btn-primary {
-    background-color: purple;
-    border-color: purple;
+    background-color: #5271ff;
+    border-color: #5271ff;
 }
 
 .btn.btn-primary:hover {
-    background-color: #670067;
-    border-color: #670067;
+    background-color: #2847ff;
+    border-color: #2847ff;
 }
 
 /*override btn btn-outline-primary*/
 .btn.btn-outline-primary {
-    color: purple;
-    border-color: purple;
+    color: #5271ff;
+    border-color: #5271ff;
 }
 
 .btn.btn-outline-primary:hover {
     color: white;
-    background-color: purple;
-    border-color: purple;
+    background-color: #5271ff;
+    border-color: #5271ff;
 }
 
 /*override page-link*/
 .page-link {
-    color: purple;
+    color: #5271ff;
 }
 
 .page-link:hover {
-    color: blueviolet;
+    color: #8197ff;
 }
 
 /*override page-item active page-link*/
 .page-item.active .page-link {
     color: white;
-    background-color: purple;
-    border-color: purple;
+    background-color: #5271ff;
+    border-color: #5271ff;
 }
 
 .error-page {
@@ -70,11 +69,11 @@
 }
 
 a {
-    color: purple;
+    color: #5271ff;
 }
 
 a:hover {
-    color: blueviolet;
+    color: #8197ff;
 }
 
 img.profile {
