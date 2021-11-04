@@ -1,7 +1,7 @@
 ---
 picture: "/uploads/default-profile-image.png"
 priority: 1
-title: Rachel Grace Tan
+title: Rachel Tan
 position: Writer
 
 ---
