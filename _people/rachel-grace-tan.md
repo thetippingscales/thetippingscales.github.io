@@ -1,6 +1,6 @@
 ---
 picture: "/uploads/default-profile-image.png"
-priority: 2
+priority: 1
 title: Rachel Grace Tan
 position: Writer
 
