@@ -1,4 +1,0 @@
----
-title: thai_protest
-
----
