@@ -9,8 +9,6 @@ title: 'How To Solve A Problem Like Obstetric Violence: Childbirth, Women’s Au
   and the Patriarchy'
 
 ---
-![](/uploads/obs-violence-pic.jpg)_Disclaimer: The views expressed below are that of the individual author._ 
-
-.
+![](/uploads/obs-violence-pic.jpg)_Disclaimer: The views expressed below are that of the individual author._
 
 [Heading picture source](www.todaysparent.com)
