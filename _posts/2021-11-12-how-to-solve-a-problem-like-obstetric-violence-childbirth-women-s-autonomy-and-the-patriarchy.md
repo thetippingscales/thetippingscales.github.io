@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2021-11-12 09:58:04 +0000
-author: _people/aiya-nakash.md
-tags: []
+author: _people/emily-girvan-dutton.md
+tags:
+- medical_negligence
 title: 'How To Solve A Problem Like Obstetric Violence: Childbirth, Women’s Autonomy,
   and the Patriarchy'
 
