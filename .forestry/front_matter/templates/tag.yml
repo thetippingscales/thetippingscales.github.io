@@ -8,15 +8,17 @@ fields:
   config:
     required: true
     min: 1
-  description: Capital letters are not allowed.<br>Spacing between words is not allowed.<br>Use
-    '_' (Underscore) instead of ' ' (Space)
+  description: Spacing between words is not allowed.<br>Use '_' (Underscore) instead
+    of ' ' (Space)
 pages:
-- _tags/covid_19.md
-- _tags/human_rights.md
+- _tags/covid-19.md
+- _tags/human-rights.md
 - _tags/human_rights_act.md
 - _tags/medical_law.md
+- _tags/medical_negligence.md
 - _tags/misogynoir.md
 - _tags/modern_slavery.md
-- _tags/obstetric_violence.md
+- _tags/thai_protest.md
 - _tags/united_kingdom.md
-- _tags/worker_rights.md
+- _tags/womens_rights.md
+- _tags/worker-rights.md
