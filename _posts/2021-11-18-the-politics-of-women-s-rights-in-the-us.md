@@ -6,9 +6,10 @@ tags: []
 title: 'The Politics of Women’s Rights in the US '
 
 ---
-> _Disclaimer: The views expressed below are that of the individual author._
 
 ![](/uploads/rgt-pic-edited.png)
+
+> _Disclaimer: The views expressed below are that of the individual author._
 
 Despite the iconic suffrage movement in the US, which saw the breaking of glass ceilings, the issue of women’s rights has become the subject of increasing controversy.
 
