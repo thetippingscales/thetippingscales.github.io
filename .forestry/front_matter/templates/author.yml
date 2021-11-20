@@ -8,6 +8,7 @@ fields:
   config:
     required: true
     min: 1
+  description: Full name must follow the format "{First name} {Last name}".<br>Middle name is not supported and will break author related features.
 - type: text
   name: position
   label: Position
