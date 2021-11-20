@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-11-18 11:16:51 +0000
-author: _people/rachel-grace-tan.md
+author: _people/rachel-tan.md
 tags: []
 title: 'The Politics of Women’s Rights in the US '
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-01-28T12:02:38.000+00:00
-author: _people/rachel-grace-tan.md
+author: _people/rachel-tan.md
 tags:
 - thai_protest
 - global
