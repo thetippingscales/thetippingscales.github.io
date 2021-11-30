@@ -7,8 +7,7 @@ tags:
 title: 'Human Trafficking in Southeast Asia: Why the end is not in sight'
 
 ---
-
-![](/uploads/sangee-article-1.jpg)
+![](/uploads/sangee-pic-1-edited.png)
 
 > _Disclaimer: The views expressed below are that of the individual author._
 
