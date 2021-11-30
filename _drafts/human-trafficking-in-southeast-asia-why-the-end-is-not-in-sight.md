@@ -2,10 +2,12 @@
 layout: post
 date: 2021-11-30 10:01:12 +0000
 author: _people/sangee-krishnan.md
-tags: []
+tags:
+- modern_slavery
 title: 'Human Trafficking in Southeast Asia: Why the end is not in sight'
 
 ---
+> _Disclaimer: The views expressed below are that of the individual author._
 
 As non-traditional security threats become more prominent in today's security landscape, there has been an increasing focus on threats to society and the individual. Non-traditional security threats are not military in nature, with one such example being human trafficking. A modern form of slavery, human trafficking had been re-framed as a national security threat by states and is no longer just a human rights issue. Owing to globalisation, the world is becoming more interconnected and in turn, human trafficking can be viewed as both transnational and complex. Even though human trafficking is recognised as a threat worldwide and there is a call to end it, responses are often lacking. There are existing efforts that have been undertaken by the international and regional communities as well as individual states. Yet, the problem has escalated with the rise of technology and social media.
 
@@ -28,3 +30,5 @@ The push factors from source states and pull factors from destination states tog
 [\[2\]](applewebdata://F1AEF8B8-8A01-42A2-94BF-A76A45DA3953#_ftnref2)Lim LL, Sex industry assuming massive proportions in Southeast Asia, (International Labour Organisation, 19 Aug 1998), [https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_007994/lang--en/index.htm](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_243391/lang--en/index.htm "https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_243391/lang--en/index.htm")
 
 [\[3\]](applewebdata://F1AEF8B8-8A01-42A2-94BF-A76A45DA3953#_ftnref3)Hodal K and Kelly A, Malaysia: forced labour casts dark shadow over electronics industry, (The Guardian, 21 Nov 2016), [https://www.theguardian.com/global-development/2016/nov/21/malaysia-forced-labour-casts-dark-shadow-over-electronics-industry](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_243391/lang--en/index.htm "https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_243391/lang--en/index.htm")
+
+Heading picture source
