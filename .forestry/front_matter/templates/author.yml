@@ -8,7 +8,6 @@ fields:
   config:
     required: true
     min: 1
-  description: Full name must follow the format "{First name} {Last name}".<br>Middle name is not supported and will break author related features.
 - type: text
   name: position
   label: Position
@@ -39,5 +38,6 @@ pages:
 - _people/hannah-mattocks.md
 - _people/morgan-buckley.md
 - _people/myles-anderson.md
-- _people/rachel-tan.md
+- _people/rachel-grace-tan.md
 - _people/roshni-popli.md
+- _people/sangee-krishnan.md
