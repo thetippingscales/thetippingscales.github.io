@@ -3,7 +3,7 @@ layout: post
 date: 2021-12-09 18:27:16 +0000
 author: _people/ella-newman.md
 tags: []
-title: 'The new policing bill: a new legal order or simply a violation of our rights?'
+title: 'The new policing bill: A new legal order or simply a violation of our rights?'
 
 ---
 ![](/uploads/untitled-design-5.png)
