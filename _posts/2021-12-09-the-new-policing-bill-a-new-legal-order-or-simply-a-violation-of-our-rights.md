@@ -31,3 +31,5 @@ Although reforms to legislation may appear as a more effective means of improvin
 **Conclusion**
 
 This Bill will be detrimental to the fundamental values that the UK legal system is founded upon: democracy and freedom. The impact that it will have on its supposed objective is not sufficient to outweigh the effect it will have on other fundamental issues and rights. It would not only violate our rights; it would also worsen pre-existing discriminatory issues. The government has emphasised that the right to protest does not constitute an absolute right, but does this give them the power to wholly deprive a population of their right to freedom of expression?
+
+Heading picture source: Tolga Akmen / AFP) (Photo by TOLGA AKMEN/AFP via Getty Images)
