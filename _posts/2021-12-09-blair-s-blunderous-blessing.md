@@ -6,6 +6,8 @@ tags: []
 title: Blair’s Blunderous Blessing
 
 ---
+![](/uploads/untitled-design-4.png)
+
 > _Disclaimer: The views expressed below are that of the individual author._
 
 Information underpins democracy, and is “the key to sound decision making, to accountability, and development”.[\[1\]](applewebdata://F3F0D9F0-1210-46E6-B11C-8B5ECF036F1F#_ftn1)The United Nations (UN) has endorsed freedom of information as a “fundamental human right” and the “touchstone for all the freedoms to which the UN is consecrated.”[\[2\]](applewebdata://F3F0D9F0-1210-46E6-B11C-8B5ECF036F1F#_ftn2)It is certainly my opinion that openness, transparency, and access to government-held information are the sole remedies for a government ailed with a democratic deficiency.
