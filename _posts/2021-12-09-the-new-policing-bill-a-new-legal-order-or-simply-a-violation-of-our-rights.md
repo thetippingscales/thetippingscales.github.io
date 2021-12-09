@@ -6,6 +6,7 @@ tags: []
 title: 'The new policing bill: a new legal order or simply a violation of our rights?'
 
 ---
+![](/uploads/untitled-design-5.png)
 
 > _Disclaimer: The views expressed below are that of the individual author._
 
