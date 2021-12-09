@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-12-09 18:19:36 +0000
+date: 2021-12-02 18:19:36 +0000
 author: _people/diwankar-agrawal.md
 tags: []
 title: Blair’s Blunderous Blessing
