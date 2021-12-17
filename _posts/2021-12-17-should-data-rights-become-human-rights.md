@@ -7,6 +7,8 @@ tags:
 title: Should data rights become human rights?
 
 ---
+![](/uploads/untitled-design-6.png)
+
 > _Disclaimer: The views expressed below are that of the individual author._
 
 The ubiquity of the internet is very much a given with many citizens of advanced economies heavily relying on it in their day to day lives. The internet has given people the ability to share and receive new information online. Although internet usage is becoming more prominent within society, with some countries making it a human right, many people are not aware of what their personal information is being used for. Clive Humby, a British mathematician and data science entrepreneur,referred to data being the ‘new oil’ based on how valuable it is within the 21stcentury[\[1\]](applewebdata://1698D0A9-805E-4EF3-B8BB-5B0C3BEC1A4B#_ftn1). Recent events have exposed just how easilyone’s personal data can be used to manipulate and exploit individuals. But do the current protections on data rights go far enough or should governments go a step further in extending human rights to encompass data rights?
