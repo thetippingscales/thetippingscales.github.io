@@ -9,6 +9,8 @@ title: To what extent does the UK's healthcare system preserve the right to life
   vulnerable patients?
 
 ---
+![](/uploads/untitled-design-7.png)
+
 > _Disclaimer: The views expressed below are that of the individual author._
 
 _Trigger Warning: Self-Harm_
