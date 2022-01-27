@@ -11,7 +11,9 @@ title: 'Activism or Separatism? The Declining Freedom of Speech in Hong Kong '
 
 > _Disclaimer: The views expressed below are that of the individual author._
 
-‘If liberty means anything at all it means the right to tell people what they do not want to hear.’ Free speech is intrinsic to human development as it promotes public discourse in the search for truth, develops human self-fulfilment, allows citizens to participate in democracy, and exposes the government under scrutiny. Therefore, it is difficult to argue for the removal of this valuable human right if the society has enjoyed its fruits. Yet, citizens of Hong Kong, a liberal enclave of China, have been involved in a prolonged fight to retain this freedom ever since the handover to China in 1997, and the enactment of the National Security Law (NSL) and recent decisions from the Hong Kong court suggest that they have already lost the battle.
+‘If liberty means anything at all it means the right to tell people what they do not want to hear.’[\[1\]](applewebdata://925EDA6F-42AE-451B-86B2-56B264DD56AD#_ftn1)
+
+Free speech is intrinsic to human development as it promotes public discourse in the search for truth, develops human self-fulfilment, allows citizens to participate in democracy, and exposes the government under scrutiny.[\[2\]](applewebdata://677F40E5-A8D5-46A8-BC8C-89D78306AB40#_ftn1). Therefore, it is difficult to argue for the removal of this valuable human right if the society has enjoyed its fruits. Yet, citizens of Hong Kong, a liberal enclave of China, have been involved in a prolonged fight to retain this freedom ever since the handover to China in 1997, and the enactment of the National Security Law (NSL) and recent decisions from the Hong Kong court suggest that they have already lost the battle.
 
 **Background**
 
@@ -34,5 +36,9 @@ Attempting to remove the ephemera of freedom Hong Kong has enjoyed will not reso
 **Near the end?**
 
 From the Extradition Bill to the enforcement of the NSL, people in Hong Kong have found themselves jumping out of the frying pan into the fire. Both decisions in _Tong_ and _Ma_ have sent out a clear message: freedom of speech has been attenuated and the fight is near the end. Ma and Tong certainly will not be the last. With the emergence of a vast diaspora, the current prospect of Hong Kong’s human rights development is pessimistic. It is likely that Hong Kong’s courts will continue to adopt a broader interpretation of the NSL and thus deliver more favourable rulings for the PRC. This would inescapably damage the separation of powers between the judiciary and the executive, and the calamitous loss of confidence in the judiciary of Hong Kong would be the concomitant corollary.
+
+[\[1\]](applewebdata://925EDA6F-42AE-451B-86B2-56B264DD56AD#_ftnref1)George Orwell, ‘The Freedom of the Press’ _The Times Literary Supplement_(London, 15 September 1972) 1037–9.
+
+[\[2\]](applewebdata://677F40E5-A8D5-46A8-BC8C-89D78306AB40#_ftnref1)Eric Barendt, _Freedom of Speech_(2nd edn, OUP 2007) ch 1. 
 
 Image source: The Atlantic
