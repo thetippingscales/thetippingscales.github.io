@@ -3,7 +3,7 @@ layout: post
 date: 2022-01-27 18:47:07 +0000
 author: _people/matthew-sou.md
 tags:
-- free_sppech
+- free_speech
 title: 'Activism or Separatism? The Declining Freedom of Speech in Hong Kong '
 
 ---
