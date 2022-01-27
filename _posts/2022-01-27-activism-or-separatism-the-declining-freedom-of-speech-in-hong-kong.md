@@ -7,7 +7,7 @@ tags:
 title: 'Activism or Separatism? The Declining Freedom of Speech in Hong Kong '
 
 ---
-![](/uploads/untitled-design-8.png)
+![](/uploads/untitled-design-9.png)
 
 > _Disclaimer: The views expressed below are that of the individual author._
 
@@ -39,21 +39,21 @@ From the Extradition Bill to the enforcement of the NSL, people in Hong Kong hav
 
 [\[1\]](applewebdata://F8FFBCF5-A636-44BB-B318-DE48BCEA17D7#_ftnref1)George Orwell, ‘The Freedom of the Press’ _The Times Literary Supplement_(London, 15 September 1972) 1037–9.
 
-[\[2\]](applewebdata://1EC0A358-F262-45EA-9C1E-08C015B405AD#_ftnref1)Eric Barendt, _Freedom of Speech_(2nd edn, OUP 2007) 
+[\[2\]](applewebdata://1EC0A358-F262-45EA-9C1E-08C015B405AD#_ftnref1)Eric Barendt, _Freedom of Speech_(2nd edn, OUP 2007)
 
-[\[3\]](applewebdata://E9BFF8A5-A1B6-456A-84E1-8799A5EE9345#_ftnref1)The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region LN 136 of 2020 (NSL). 
+[\[3\]](applewebdata://E9BFF8A5-A1B6-456A-84E1-8799A5EE9345#_ftnref1)The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region LN 136 of 2020 (NSL).
 
 [\[4\]](applewebdata://D0CA86BA-2F48-42D7-A6EC-AC381AE50757#_ftnref1)CL Lim, ‘The Hong Kong Extradition Bill’ (2020) 136 LQR 19.
 
-[\[5\]](applewebdata://F3AC20D6-3EC1-4429-BDD6-FE1D9D4FE8A0#_ftnref1)NSL, arts 20–30. 
+[\[5\]](applewebdata://F3AC20D6-3EC1-4429-BDD6-FE1D9D4FE8A0#_ftnref1)NSL, arts 20–30.
 
 [\[6\]](applewebdata://FEEE3ECB-9A89-49A3-8802-D3758F32B53B#_ftnref1)NSL, arts 36–38
 
 [\[7\]](applewebdata://A663361B-8D72-499B-95E7-1B5B4E146B46#_ftnref1)_Tong Ying Kit v HKSAR_\[2020\] HKCFI 2133.
 
 [\[8\]](applewebdata://515F5C4C-13B1-4FCB-91CF-A2A42DAA111B#_ftnref1)James Pomfret, ‘Free Speech or Secession? “Liberate Hong Kong” at Heart of Landmark Case’ (_Reuters_, 26 July 2021) <www.reuters.com/world/asia-pacific/free-speech-or-secession-liberate-hong-kong-heart-landmark-case-2021-07-25> accessed 13 December 2021  
-[\[9\]](applewebdata://8055A1D6-BB15-45F8-86A2-D9D53918291B#_ftnref1)Timothy McLaughlin, ‘The End of Free Speech in Hong Kong’ (_The Atlantic_, 27 July 2021) <www.theatlantic.com/international/archive/2021/07/end-free-speech-hong-kong/619577> accessed 13 December 2021.   
-[\[10\]](applewebdata://E09C91AE-3BD9-4AE0-BF4A-1B628FA870BC#_ftnref1)_Tong_(n 7) \[7\]. 
+[\[9\]](applewebdata://8055A1D6-BB15-45F8-86A2-D9D53918291B#_ftnref1)Timothy McLaughlin, ‘The End of Free Speech in Hong Kong’ (_The Atlantic_, 27 July 2021) <www.theatlantic.com/international/archive/2021/07/end-free-speech-hong-kong/619577> accessed 13 December 2021.  
+[\[10\]](applewebdata://E09C91AE-3BD9-4AE0-BF4A-1B628FA870BC#_ftnref1)_Tong_(n 7) \[7\].
 
 [\[11\]](applewebdata://DAE8AC57-F68E-4B64-ACF8-F4F6073AFC33#_ftnref1)_HKSAR v Ma Chun Man_\[2021\] HKCFI 3132.
 
@@ -75,6 +75,6 @@ From the Extradition Bill to the enforcement of the NSL, people in Hong Kong hav
 
 [\[20\]](applewebdata://B426379F-71A3-4AD5-8541-2D18685139C7#_ftnref1)_HKSAR v Lai Chee Ying_\[2021\] HKCFA 3.
 
-[\[21\]](applewebdata://3D103648-7BE0-4BB0-8821-3F83074B85A9#_ftnref1)Wu and Yu (n 18). 
+[\[21\]](applewebdata://3D103648-7BE0-4BB0-8821-3F83074B85A9#_ftnref1)Wu and Yu (n 18).
 
 Image source: [The Atlantic](http://www.theatlantic.com/photo/2019/06/hong-kong-protesters-return-streets-photos/591841)
