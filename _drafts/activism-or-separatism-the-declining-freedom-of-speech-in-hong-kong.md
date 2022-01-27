@@ -77,4 +77,4 @@ From the Extradition Bill to the enforcement of the NSL, people in Hong Kong hav
 
 [\[21\]](applewebdata://3D103648-7BE0-4BB0-8821-3F83074B85A9#_ftnref1)Wu and Yu (n 18). 
 
-Image source: The Atlantic
+Image source: [The Atlantic](http://www.theatlantic.com/photo/2019/06/hong-kong-protesters-return-streets-photos/591841)
