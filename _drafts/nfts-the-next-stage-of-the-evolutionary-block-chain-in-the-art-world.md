@@ -39,3 +39,5 @@ Williamson and Rapeport of Withers LLP [propose a link ]( https://www.witherswor
 ***
 
 [\[1\]](applewebdata://524AFF4E-3B6D-4BE3-8FF3-293E40DC973A#_ftnref1)3rd Global Cryptoasset Benchmarking Study,Apolline Blandin, Dr. Gina Pieters, Yue Wu, Thomas Eisermann, Anton Dek, Sean Taylor and Damaris Njoki
+
+[Picture/ NFT source](https://onlineonly.christies.com/s/beeple-first-5000-days/beeple-b-1981-1/112924)
