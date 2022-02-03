@@ -6,6 +6,7 @@ tags: []
 title: 'NFTs: the next stage of the evolutionary (block)chain in the art world?'
 
 ---
+> _Disclaimer: The views expressed below are that of the individual author._
 
 Non-fungible tokens (NFTs) are representations of unique digital assets on the Ethereum blockchain, a digital record of transactions involving cryptocurrency. This can become rather complicated, requiring regular dives into the nearest dictionary, but the most important definition is that of non-fungible which, according to Merriam-Webster, means something that “cannot be copied, substituted or subdivided”. Imagine the Mona Lisa for example, while innumerable prints, photos and copies of it exist in the world, only one is the original.
 
@@ -33,5 +34,4 @@ While hesitant to regulate this emerging sector too heavily, the UK have adopted
 
 Ultimately, it is easy to understand what makes NFTs so desirable, as they perpetuate the idea that the ordinary person can participate in a world previously reserved for the elite, so long as they have enough disposable income to manage the unique challenges of cryptocurrency of course. There is also a sense of community that comes with being one of a select few to own a particular NFT, albeit likely as manufactured as the scarcity that prompted their purchase. These factors, while not inherently dangerous, often cause people to involve themselves with cryptocurrency without the proper awareness of risks or regulations they could be violating because of its allure and accessibility. This could easily enable exploitative or illegal activity as many lack the proper legal and commercial resources to understand what they have entered into.
 
-  
 Williamson and Rapeport of Withers LLP propose a link between the popularity of NFTs and the COVID-19 pandemic, specifically in response to the closure of art galleries which has limited access to art, whether to purchase or simply to view. While this may well play a role, the upsurge could also be attributed to the glorification of tech entrepreneurialism by figures like Elon Musk. They perpetuate the idea that investing early and taking risks is essential for success, which is a dangerous path to follow as said success often comes at the detriment of the environment, morality, and other people’s lives.
